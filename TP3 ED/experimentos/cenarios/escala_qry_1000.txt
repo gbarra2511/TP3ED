@@ -1,0 +1,2500 @@
+U Gabi 43 Curitiba BA Argentina
+U Nina 63 Recife SP Chilena
+U Vera 39 Recife PE Chilena
+U Felipe 60 Salvador RJ Portuguesa
+U Nina 19 PortoAlegre PR Brasileira
+U Otto 63 BeloHorizonte SP Brasileira
+U Maria 56 Recife CE Chilena
+U Otto 23 Fortaleza PE Brasileira
+U Kelly 50 RioDeJaneiro MG Chilena
+U Lucas 45 RioDeJaneiro BA Portuguesa
+U Elena 54 RioDeJaneiro PR Brasileira
+U Nina 32 Fortaleza RJ Brasileira
+U Paula 25 PortoAlegre RS Argentina
+U Sofia 70 RioDeJaneiro MG Portuguesa
+U Diego 30 Recife MG Uruguaia
+U Hugo 23 SaoPaulo CE Chilena
+U Lucas 27 BeloHorizonte PR Uruguaia
+U Bruno 55 Curitiba PR Portuguesa
+U Felipe 70 PortoAlegre CE Chilena
+U Ines 54 Fortaleza MG Chilena
+U Paula 49 Salvador BA Uruguaia
+U Hugo 41 RioDeJaneiro SP Chilena
+U Bruno 43 SaoPaulo CE Brasileira
+U Nina 64 BeloHorizonte PE Brasileira
+U Maria 54 SaoPaulo BA Argentina
+U Sofia 46 PortoAlegre MG Argentina
+U Diego 39 Recife BA Brasileira
+U Tiago 27 Curitiba CE Uruguaia
+U Diego 63 Salvador BA Portuguesa
+U Joao 39 Salvador CE Brasileira
+U Gabi 70 SaoPaulo CE Brasileira
+U Gabi 30 RioDeJaneiro PE Argentina
+U Otto 57 BeloHorizonte RJ Chilena
+U Vera 33 SaoPaulo PR Portuguesa
+U Otto 24 PortoAlegre SP Uruguaia
+U Lucas 30 Salvador PE Argentina
+U Vera 57 Recife MG Uruguaia
+U Ines 24 Fortaleza RJ Chilena
+U Ana 25 Salvador PR Chilena
+U Maria 33 PortoAlegre RJ Uruguaia
+U Ana 58 BeloHorizonte PR Brasileira
+U Nina 35 Recife PE Portuguesa
+U Carla 34 BeloHorizonte BA Uruguaia
+U Felipe 29 BeloHorizonte CE Portuguesa
+U Gabi 33 RioDeJaneiro CE Argentina
+U Elena 56 Recife PE Argentina
+U Rui 38 Salvador SP Argentina
+U Vera 52 RioDeJaneiro PR Brasileira
+U Tiago 41 Salvador RJ Argentina
+U Paula 55 SaoPaulo BA Uruguaia
+U Lucas 64 RioDeJaneiro RJ Portuguesa
+U Ines 69 Salvador SP Argentina
+U Bruno 18 Salvador RS Portuguesa
+U Hugo 60 Recife MG Brasileira
+U Gabi 37 Curitiba CE Uruguaia
+U Joao 55 RioDeJaneiro RS Chilena
+U Hugo 61 PortoAlegre MG Argentina
+U Bruno 48 SaoPaulo PE Argentina
+U Nina 64 Salvador CE Chilena
+U Ines 19 SaoPaulo MG Argentina
+U Bruno 67 PortoAlegre MG Brasileira
+U Ines 29 Fortaleza PR Brasileira
+U Vera 44 PortoAlegre PE Chilena
+U Carla 40 Salvador PR Portuguesa
+U Rui 32 Fortaleza BA Brasileira
+U Joao 18 BeloHorizonte PR Portuguesa
+U Sofia 52 PortoAlegre PR Brasileira
+U Carla 56 BeloHorizonte RJ Uruguaia
+U Tiago 54 Salvador PE Chilena
+U Gabi 35 PortoAlegre CE Portuguesa
+U Tiago 55 Salvador MG Brasileira
+U Felipe 18 RioDeJaneiro SP Uruguaia
+U Bruno 69 RioDeJaneiro PE Argentina
+U Maria 66 RioDeJaneiro SP Uruguaia
+U Bruno 47 Recife RJ Portuguesa
+U Otto 55 SaoPaulo PE Argentina
+U Felipe 69 Fortaleza PE Brasileira
+U Paula 40 Fortaleza RS Uruguaia
+U Ana 55 Salvador CE Uruguaia
+U Sofia 25 BeloHorizonte MG Portuguesa
+U Tiago 63 PortoAlegre CE Uruguaia
+U Ines 36 RioDeJaneiro PE Chilena
+U Sofia 39 Recife RS Argentina
+U Ines 32 BeloHorizonte BA Portuguesa
+U Elena 34 RioDeJaneiro MG Portuguesa
+U Bruno 67 SaoPaulo BA Portuguesa
+U Bruno 35 Salvador SP Chilena
+U Sofia 68 SaoPaulo CE Uruguaia
+U Ines 27 PortoAlegre CE Portuguesa
+U Hugo 23 Curitiba RS Uruguaia
+U Tiago 57 RioDeJaneiro PR Uruguaia
+U Maria 30 BeloHorizonte BA Brasileira
+U Nina 62 Curitiba CE Portuguesa
+U Felipe 46 Recife BA Uruguaia
+U Sofia 25 PortoAlegre MG Brasileira
+U Carla 19 PortoAlegre MG Brasileira
+U Gabi 33 RioDeJaneiro PE Brasileira
+U Gabi 51 Salvador MG Brasileira
+U Bruno 65 SaoPaulo PR Argentina
+U Elena 22 Curitiba BA Chilena
+U Joao 66 PortoAlegre CE Portuguesa
+U Felipe 18 Salvador MG Brasileira
+U Kelly 58 PortoAlegre PR Portuguesa
+U Ana 24 PortoAlegre MG Uruguaia
+U Rui 46 Salvador CE Brasileira
+U Kelly 51 Fortaleza PE Brasileira
+U Joao 34 Fortaleza CE Brasileira
+U Vera 50 SaoPaulo RS Argentina
+U Lucas 66 Fortaleza CE Uruguaia
+U Felipe 21 Curitiba PE Brasileira
+U Diego 64 Recife MG Uruguaia
+U Hugo 57 SaoPaulo PR Portuguesa
+U Nina 36 SaoPaulo RS Chilena
+U Elena 70 BeloHorizonte MG Uruguaia
+U Ines 67 Recife PE Chilena
+U Ines 45 RioDeJaneiro PE Uruguaia
+U Lucas 60 Recife BA Portuguesa
+U Bruno 44 Curitiba MG Chilena
+U Sofia 42 Recife RS Argentina
+U Felipe 28 Curitiba CE Argentina
+U Joao 45 SaoPaulo BA Uruguaia
+U Ines 24 Recife BA Argentina
+U Diego 32 Recife BA Uruguaia
+U Paula 30 Curitiba MG Portuguesa
+U Gabi 61 RioDeJaneiro SP Uruguaia
+U Hugo 53 BeloHorizonte PR Argentina
+U Maria 49 Salvador CE Chilena
+U Bruno 67 Salvador PR Chilena
+U Vera 28 Salvador BA Uruguaia
+U Elena 53 BeloHorizonte MG Argentina
+U Vera 36 Curitiba BA Brasileira
+U Rui 61 RioDeJaneiro BA Brasileira
+U Nina 51 BeloHorizonte PE Portuguesa
+U Vera 32 SaoPaulo BA Chilena
+U Gabi 22 SaoPaulo PE Chilena
+U Carla 66 Fortaleza MG Uruguaia
+U Joao 28 RioDeJaneiro CE Chilena
+U Sofia 30 Recife RS Brasileira
+U Elena 31 PortoAlegre SP Uruguaia
+U Carla 49 Salvador MG Brasileira
+U Felipe 34 BeloHorizonte RS Portuguesa
+U Elena 45 PortoAlegre PE Portuguesa
+U Carla 47 SaoPaulo SP Chilena
+U Maria 69 BeloHorizonte PR Portuguesa
+U Carla 22 RioDeJaneiro CE Argentina
+U Tiago 52 PortoAlegre BA Argentina
+U Rui 18 Salvador SP Portuguesa
+U Rui 64 BeloHorizonte PE Portuguesa
+U Joao 54 RioDeJaneiro BA Portuguesa
+U Otto 54 Curitiba BA Argentina
+U Diego 30 SaoPaulo PE Chilena
+U Hugo 55 BeloHorizonte CE Portuguesa
+U Nina 42 RioDeJaneiro SP Chilena
+U Gabi 20 Salvador SP Uruguaia
+U Bruno 20 Fortaleza PR Chilena
+U Tiago 41 Salvador RS Chilena
+U Gabi 67 Salvador PR Argentina
+U Rui 53 Salvador PE Argentina
+U Gabi 48 PortoAlegre RJ Chilena
+U Gabi 46 PortoAlegre PR Uruguaia
+U Ana 65 PortoAlegre RJ Uruguaia
+U Vera 23 SaoPaulo RJ Uruguaia
+U Ines 64 Recife RS Uruguaia
+U Paula 28 BeloHorizonte BA Uruguaia
+U Ines 69 Recife SP Chilena
+U Otto 70 Curitiba PR Chilena
+U Lucas 67 Recife BA Portuguesa
+U Hugo 51 Curitiba PR Argentina
+U Tiago 24 SaoPaulo RJ Chilena
+U Otto 35 PortoAlegre RJ Uruguaia
+U Ines 27 PortoAlegre MG Argentina
+U Lucas 20 PortoAlegre PR Argentina
+U Gabi 61 PortoAlegre SP Argentina
+U Joao 62 RioDeJaneiro PR Argentina
+U Elena 53 BeloHorizonte CE Brasileira
+U Rui 21 SaoPaulo RJ Uruguaia
+U Otto 23 Recife PE Chilena
+U Sofia 18 PortoAlegre CE Brasileira
+U Gabi 56 Salvador RJ Argentina
+U Hugo 32 Curitiba RS Argentina
+U Ines 25 Fortaleza RS Chilena
+U Bruno 62 BeloHorizonte RJ Uruguaia
+U Sofia 58 Recife RJ Argentina
+U Sofia 51 PortoAlegre RS Argentina
+U Otto 53 BeloHorizonte RJ Brasileira
+U Paula 54 Recife RS Argentina
+U Tiago 52 SaoPaulo SP Chilena
+U Ines 27 Fortaleza BA Argentina
+U Ines 20 PortoAlegre PE Uruguaia
+U Maria 55 SaoPaulo MG Brasileira
+U Paula 40 Fortaleza BA Uruguaia
+U Hugo 69 BeloHorizonte RS Chilena
+U Carla 45 SaoPaulo BA Chilena
+U Vera 49 RioDeJaneiro MG Chilena
+U Elena 30 BeloHorizonte PE Brasileira
+U Ines 58 BeloHorizonte PE Brasileira
+U Tiago 51 PortoAlegre BA Uruguaia
+U Vera 36 PortoAlegre PR Portuguesa
+U Hugo 29 Salvador MG Portuguesa
+U Vera 43 Salvador RJ Chilena
+U Elena 18 Curitiba PE Portuguesa
+U Nina 46 RioDeJaneiro RJ Chilena
+U Ana 36 SaoPaulo SP Portuguesa
+U Paula 40 Curitiba PR Portuguesa
+U Rui 35 Recife MG Uruguaia
+U Lucas 61 Salvador RJ Chilena
+U Bruno 41 Fortaleza RJ Portuguesa
+U Carla 56 SaoPaulo SP Chilena
+U Kelly 21 RioDeJaneiro RJ Chilena
+U Carla 20 Curitiba MG Chilena
+U Elena 36 PortoAlegre CE Argentina
+U Carla 41 RioDeJaneiro MG Chilena
+U Otto 28 Fortaleza RJ Portuguesa
+U Lucas 62 Recife RJ Argentina
+U Bruno 41 Fortaleza BA Brasileira
+U Hugo 58 Salvador MG Chilena
+U Gabi 24 BeloHorizonte BA Argentina
+U Diego 64 PortoAlegre MG Uruguaia
+U Maria 66 PortoAlegre CE Portuguesa
+U Ines 27 SaoPaulo PE Argentina
+U Nina 40 RioDeJaneiro BA Chilena
+U Gabi 68 SaoPaulo RS Chilena
+U Gabi 58 Recife RJ Portuguesa
+U Ana 43 BeloHorizonte RJ Portuguesa
+U Nina 29 RioDeJaneiro RS Chilena
+U Bruno 63 Curitiba CE Argentina
+U Ana 48 PortoAlegre PE Chilena
+U Ines 50 PortoAlegre MG Uruguaia
+U Ana 56 RioDeJaneiro BA Portuguesa
+U Rui 48 PortoAlegre CE Brasileira
+U Nina 27 Salvador PR Argentina
+U Maria 24 Curitiba MG Argentina
+U Maria 62 Recife RS Brasileira
+U Diego 44 PortoAlegre RS Chilena
+U Bruno 68 BeloHorizonte RJ Chilena
+U Nina 46 BeloHorizonte SP Brasileira
+U Paula 59 PortoAlegre PR Brasileira
+U Bruno 18 RioDeJaneiro BA Uruguaia
+U Joao 41 Recife SP Chilena
+U Diego 43 Curitiba PR Argentina
+U Joao 53 RioDeJaneiro PR Argentina
+U Kelly 18 BeloHorizonte RS Brasileira
+U Vera 41 Salvador PR Chilena
+U Maria 69 Recife PR Chilena
+U Carla 18 Curitiba BA Argentina
+U Ana 56 BeloHorizonte CE Chilena
+U Ines 67 PortoAlegre RS Portuguesa
+U Sofia 48 PortoAlegre RS Argentina
+U Felipe 55 RioDeJaneiro PE Uruguaia
+U Hugo 48 SaoPaulo PE Uruguaia
+U Sofia 68 Fortaleza SP Portuguesa
+U Elena 70 Fortaleza SP Portuguesa
+U Felipe 57 PortoAlegre CE Chilena
+U Sofia 27 PortoAlegre CE Portuguesa
+U Sofia 55 Recife SP Chilena
+U Kelly 42 Recife RS Portuguesa
+U Hugo 34 Fortaleza SP Argentina
+U Paula 60 RioDeJaneiro PR Portuguesa
+U Carla 33 PortoAlegre CE Brasileira
+U Joao 32 SaoPaulo SP Brasileira
+U Maria 53 SaoPaulo RS Brasileira
+U Rui 46 Curitiba RS Argentina
+U Kelly 47 Recife PR Portuguesa
+U Tiago 35 BeloHorizonte MG Brasileira
+U Maria 25 SaoPaulo RS Brasileira
+U Kelly 33 Salvador MG Chilena
+U Rui 53 SaoPaulo BA Brasileira
+U Rui 58 Fortaleza RJ Uruguaia
+U Lucas 65 SaoPaulo CE Portuguesa
+U Ana 34 RioDeJaneiro PE Brasileira
+U Vera 60 RioDeJaneiro PR Portuguesa
+U Vera 62 PortoAlegre PR Chilena
+U Sofia 36 RioDeJaneiro PR Uruguaia
+U Joao 45 RioDeJaneiro PE Portuguesa
+U Bruno 25 Salvador BA Brasileira
+U Carla 67 Salvador RS Brasileira
+U Gabi 21 RioDeJaneiro BA Uruguaia
+U Rui 48 PortoAlegre PE Brasileira
+U Bruno 52 Fortaleza BA Brasileira
+U Felipe 70 RioDeJaneiro MG Chilena
+U Gabi 63 Recife RJ Brasileira
+U Hugo 51 Recife CE Portuguesa
+U Gabi 33 SaoPaulo BA Chilena
+U Rui 52 SaoPaulo PR Portuguesa
+U Lucas 69 Curitiba MG Brasileira
+U Ana 53 SaoPaulo RS Chilena
+U Diego 52 RioDeJaneiro RS Argentina
+U Joao 68 Curitiba SP Uruguaia
+U Hugo 54 RioDeJaneiro MG Brasileira
+U Kelly 36 BeloHorizonte SP Uruguaia
+U Nina 42 PortoAlegre MG Brasileira
+U Carla 62 Recife RS Argentina
+U Sofia 61 Recife RJ Chilena
+U Ana 29 Recife CE Uruguaia
+U Otto 45 RioDeJaneiro BA Uruguaia
+U Nina 42 Fortaleza RJ Brasileira
+U Joao 57 RioDeJaneiro CE Uruguaia
+U Bruno 38 Curitiba CE Uruguaia
+U Maria 25 BeloHorizonte SP Argentina
+U Hugo 54 Salvador SP Argentina
+U Tiago 32 Curitiba RJ Uruguaia
+U Diego 63 BeloHorizonte MG Portuguesa
+U Felipe 33 SaoPaulo RS Portuguesa
+U Sofia 37 SaoPaulo SP Uruguaia
+U Elena 46 RioDeJaneiro RJ Portuguesa
+U Otto 30 Recife RS Chilena
+U Paula 51 Fortaleza PE Uruguaia
+U Lucas 34 RioDeJaneiro CE Chilena
+U Lucas 67 Salvador MG Argentina
+U Vera 29 Curitiba CE Uruguaia
+U Ana 44 SaoPaulo BA Uruguaia
+U Nina 44 BeloHorizonte BA Brasileira
+U Felipe 44 Fortaleza MG Uruguaia
+U Joao 69 SaoPaulo CE Brasileira
+U Tiago 20 Curitiba CE Portuguesa
+U Elena 68 Recife RJ Argentina
+U Elena 28 PortoAlegre SP Brasileira
+U Bruno 63 BeloHorizonte CE Uruguaia
+U Rui 45 Fortaleza PE Argentina
+U Ines 54 Salvador SP Argentina
+U Lucas 37 BeloHorizonte PE Argentina
+U Nina 70 Recife BA Brasileira
+U Carla 57 Curitiba RJ Portuguesa
+U Otto 41 RioDeJaneiro RS Brasileira
+U Lucas 46 Recife SP Argentina
+U Bruno 42 RioDeJaneiro BA Uruguaia
+U Otto 62 Salvador CE Argentina
+U Bruno 65 BeloHorizonte MG Chilena
+U Sofia 48 BeloHorizonte PR Brasileira
+U Otto 22 SaoPaulo MG Chilena
+U Joao 29 BeloHorizonte RJ Chilena
+U Ines 48 RioDeJaneiro RJ Chilena
+U Ines 31 Curitiba CE Chilena
+U Rui 27 PortoAlegre SP Chilena
+U Elena 52 BeloHorizonte MG Portuguesa
+U Ana 58 RioDeJaneiro PE Argentina
+U Paula 42 PortoAlegre SP Brasileira
+U Tiago 27 PortoAlegre RJ Argentina
+U Carla 58 BeloHorizonte PR Brasileira
+U Kelly 46 Salvador MG Uruguaia
+U Nina 68 Curitiba BA Portuguesa
+U Paula 39 BeloHorizonte BA Argentina
+U Diego 34 PortoAlegre MG Chilena
+U Joao 60 PortoAlegre PR Portuguesa
+U Gabi 47 SaoPaulo CE Uruguaia
+U Ana 22 Salvador CE Portuguesa
+U Hugo 69 Fortaleza PR Brasileira
+U Bruno 31 Fortaleza CE Argentina
+U Rui 64 Recife PR Uruguaia
+U Gabi 69 BeloHorizonte SP Argentina
+U Tiago 69 SaoPaulo CE Brasileira
+U Vera 25 Salvador SP Uruguaia
+U Carla 41 Fortaleza CE Argentina
+U Carla 41 RioDeJaneiro SP Portuguesa
+U Carla 56 BeloHorizonte CE Uruguaia
+U Bruno 33 Recife RJ Brasileira
+U Paula 29 PortoAlegre BA Uruguaia
+U Maria 41 RioDeJaneiro SP Argentina
+U Nina 40 SaoPaulo RJ Uruguaia
+U Felipe 66 PortoAlegre RS Argentina
+U Hugo 26 PortoAlegre PR Uruguaia
+U Bruno 48 Fortaleza PR Argentina
+U Sofia 21 PortoAlegre CE Uruguaia
+U Kelly 45 Curitiba RJ Chilena
+U Hugo 44 SaoPaulo PR Portuguesa
+U Joao 32 PortoAlegre SP Uruguaia
+U Paula 28 Curitiba CE Argentina
+U Tiago 54 RioDeJaneiro RJ Argentina
+U Joao 36 BeloHorizonte CE Uruguaia
+U Ana 56 Recife SP Brasileira
+U Carla 28 BeloHorizonte CE Brasileira
+U Hugo 25 Recife BA Portuguesa
+U Elena 58 SaoPaulo PR Uruguaia
+U Lucas 64 PortoAlegre MG Chilena
+U Carla 31 RioDeJaneiro MG Portuguesa
+U Kelly 60 RioDeJaneiro MG Uruguaia
+U Felipe 57 Recife PE Portuguesa
+U Otto 22 Recife PR Uruguaia
+U Hugo 66 Fortaleza RS Brasileira
+U Elena 54 PortoAlegre SP Portuguesa
+U Rui 51 RioDeJaneiro SP Chilena
+U Ines 24 Fortaleza RJ Argentina
+U Paula 41 PortoAlegre RS Chilena
+U Bruno 38 Recife PE Brasileira
+U Rui 38 Salvador RJ Brasileira
+U Sofia 56 BeloHorizonte RJ Brasileira
+U Nina 66 Recife BA Brasileira
+U Paula 41 Curitiba CE Brasileira
+U Felipe 63 PortoAlegre RJ Uruguaia
+U Tiago 68 Curitiba PE Uruguaia
+U Joao 28 BeloHorizonte CE Uruguaia
+U Ines 42 Recife PR Uruguaia
+U Joao 38 Recife SP Chilena
+U Vera 32 BeloHorizonte PR Portuguesa
+U Tiago 25 RioDeJaneiro SP Argentina
+U Hugo 57 SaoPaulo CE Portuguesa
+U Otto 49 RioDeJaneiro PR Argentina
+U Elena 43 Curitiba SP Uruguaia
+U Gabi 24 Fortaleza CE Portuguesa
+U Joao 66 PortoAlegre BA Portuguesa
+U Elena 66 Recife RS Brasileira
+U Carla 53 Curitiba SP Brasileira
+U Sofia 59 SaoPaulo SP Chilena
+U Paula 51 Recife CE Argentina
+U Ines 47 BeloHorizonte MG Uruguaia
+U Otto 46 RioDeJaneiro RJ Portuguesa
+U Joao 35 PortoAlegre RJ Brasileira
+U Joao 40 PortoAlegre CE Argentina
+U Kelly 52 PortoAlegre MG Uruguaia
+U Nina 42 PortoAlegre BA Brasileira
+U Paula 45 Fortaleza PE Portuguesa
+U Felipe 46 Salvador RJ Argentina
+U Vera 33 Curitiba SP Chilena
+U Otto 23 RioDeJaneiro PR Chilena
+U Bruno 24 BeloHorizonte PE Brasileira
+U Lucas 51 Salvador BA Brasileira
+U Diego 62 Fortaleza RS Brasileira
+U Tiago 67 Salvador RJ Portuguesa
+U Gabi 46 Recife BA Argentina
+U Diego 37 BeloHorizonte RJ Argentina
+U Elena 53 Recife CE Brasileira
+U Tiago 56 SaoPaulo CE Chilena
+U Paula 67 Recife RJ Chilena
+U Sofia 18 Fortaleza RS Uruguaia
+U Carla 63 RioDeJaneiro PR Chilena
+U Nina 70 PortoAlegre RJ Portuguesa
+U Felipe 66 Fortaleza RS Chilena
+U Kelly 52 Salvador RJ Portuguesa
+U Otto 41 RioDeJaneiro PR Argentina
+U Vera 62 RioDeJaneiro RS Uruguaia
+U Nina 57 BeloHorizonte RJ Brasileira
+U Rui 56 Salvador SP Portuguesa
+U Nina 68 SaoPaulo RS Uruguaia
+U Rui 45 Curitiba PR Chilena
+U Otto 19 PortoAlegre PE Argentina
+U Otto 34 Fortaleza MG Argentina
+U Tiago 19 PortoAlegre RS Portuguesa
+U Hugo 56 RioDeJaneiro CE Portuguesa
+U Kelly 42 Salvador RS Brasileira
+U Bruno 49 Salvador PR Argentina
+U Felipe 18 PortoAlegre PR Portuguesa
+U Bruno 39 RioDeJaneiro SP Brasileira
+U Joao 50 Curitiba PR Brasileira
+U Joao 58 RioDeJaneiro PE Uruguaia
+U Lucas 40 BeloHorizonte CE Chilena
+U Ana 69 Salvador RJ Portuguesa
+U Tiago 66 Recife RJ Brasileira
+U Lucas 67 RioDeJaneiro RJ Portuguesa
+U Gabi 45 Salvador PE Uruguaia
+U Felipe 33 Salvador RS Uruguaia
+U Bruno 52 RioDeJaneiro SP Argentina
+U Bruno 21 SaoPaulo PE Uruguaia
+U Carla 18 Curitiba PE Uruguaia
+U Sofia 60 SaoPaulo RS Chilena
+U Diego 29 Curitiba PE Argentina
+U Lucas 70 Curitiba RS Argentina
+U Lucas 24 PortoAlegre PR Brasileira
+U Joao 34 SaoPaulo SP Portuguesa
+U Otto 32 Recife RS Uruguaia
+U Kelly 60 PortoAlegre PE Chilena
+U Maria 52 SaoPaulo CE Brasileira
+U Sofia 64 BeloHorizonte SP Chilena
+U Gabi 69 Salvador RJ Chilena
+U Tiago 47 Curitiba RS Argentina
+U Carla 52 Recife SP Uruguaia
+U Otto 70 Recife RS Uruguaia
+U Gabi 53 Fortaleza PR Chilena
+U Vera 19 Fortaleza PR Portuguesa
+U Vera 50 Salvador MG Portuguesa
+U Paula 21 Salvador PE Brasileira
+U Hugo 18 Salvador RS Uruguaia
+U Carla 38 BeloHorizonte RS Uruguaia
+U Lucas 26 Curitiba PR Portuguesa
+U Lucas 35 Fortaleza RJ Portuguesa
+U Bruno 26 PortoAlegre BA Chilena
+U Nina 57 Salvador BA Brasileira
+U Diego 24 RioDeJaneiro PE Brasileira
+U Felipe 24 PortoAlegre RJ Chilena
+U Gabi 42 SaoPaulo CE Chilena
+U Bruno 43 Fortaleza PR Portuguesa
+U Elena 66 Recife BA Chilena
+U Elena 63 SaoPaulo RS Uruguaia
+U Sofia 56 Recife PR Brasileira
+U Gabi 41 BeloHorizonte PE Uruguaia
+U Paula 69 Curitiba CE Chilena
+U Elena 65 Salvador RJ Chilena
+U Paula 34 BeloHorizonte PE Brasileira
+U Elena 49 Salvador CE Uruguaia
+U Felipe 61 RioDeJaneiro CE Argentina
+U Gabi 57 Salvador SP Brasileira
+U Diego 66 SaoPaulo MG Brasileira
+U Sofia 23 Fortaleza PE Chilena
+U Gabi 49 PortoAlegre PR Uruguaia
+U Ana 63 Salvador SP Argentina
+U Bruno 49 Fortaleza PE Chilena
+U Vera 19 Salvador CE Argentina
+U Lucas 44 PortoAlegre SP Chilena
+U Paula 37 PortoAlegre CE Chilena
+U Tiago 67 BeloHorizonte SP Brasileira
+U Tiago 59 Salvador RS Chilena
+U Ana 33 Recife MG Uruguaia
+U Hugo 33 SaoPaulo RJ Portuguesa
+U Sofia 48 Fortaleza PR Uruguaia
+U Paula 42 BeloHorizonte RS Argentina
+U Maria 19 BeloHorizonte MG Chilena
+U Ines 46 Curitiba BA Chilena
+U Ana 64 SaoPaulo RJ Uruguaia
+U Kelly 41 Curitiba PR Uruguaia
+U Lucas 58 Fortaleza PR Brasileira
+U Felipe 45 Curitiba RJ Portuguesa
+U Bruno 40 SaoPaulo CE Argentina
+U Bruno 42 Recife MG Brasileira
+U Felipe 69 SaoPaulo PR Chilena
+U Nina 61 Fortaleza SP Chilena
+U Vera 19 PortoAlegre MG Portuguesa
+U Ines 37 PortoAlegre CE Argentina
+U Bruno 24 Recife MG Argentina
+U Vera 65 BeloHorizonte RJ Argentina
+U Gabi 56 BeloHorizonte SP Brasileira
+U Gabi 32 PortoAlegre RJ Uruguaia
+U Kelly 61 RioDeJaneiro RS Uruguaia
+U Maria 41 Salvador SP Chilena
+U Paula 50 Recife SP Portuguesa
+U Elena 49 Salvador RS Chilena
+U Sofia 45 BeloHorizonte PE Uruguaia
+U Felipe 67 PortoAlegre RJ Argentina
+U Tiago 60 Salvador CE Argentina
+U Diego 31 Curitiba SP Argentina
+U Ines 68 RioDeJaneiro RS Chilena
+U Paula 54 RioDeJaneiro BA Brasileira
+U Rui 31 Fortaleza PE Brasileira
+U Gabi 53 PortoAlegre RS Chilena
+U Hugo 26 RioDeJaneiro RJ Uruguaia
+U Ines 62 Salvador CE Brasileira
+U Maria 29 Curitiba PR Argentina
+U Nina 65 PortoAlegre MG Chilena
+U Paula 48 Curitiba RJ Uruguaia
+U Gabi 56 PortoAlegre CE Uruguaia
+U Elena 66 PortoAlegre PR Chilena
+U Felipe 40 Salvador MG Uruguaia
+U Joao 66 SaoPaulo BA Argentina
+U Carla 57 SaoPaulo MG Portuguesa
+U Carla 21 Curitiba PE Chilena
+U Lucas 66 SaoPaulo PE Argentina
+U Vera 64 Fortaleza SP Argentina
+U Carla 42 Curitiba CE Argentina
+U Sofia 57 SaoPaulo SP Argentina
+U Diego 63 Curitiba RS Chilena
+U Maria 60 Salvador PE Brasileira
+U Vera 62 SaoPaulo RJ Uruguaia
+U Nina 31 Curitiba BA Portuguesa
+U Lucas 37 Curitiba PE Chilena
+U Vera 39 Salvador PR Chilena
+U Joao 36 RioDeJaneiro BA Uruguaia
+U Diego 61 Fortaleza MG Chilena
+U Diego 58 BeloHorizonte PE Portuguesa
+U Lucas 38 PortoAlegre CE Argentina
+U Kelly 53 Salvador PR Uruguaia
+U Carla 33 SaoPaulo MG Chilena
+U Ana 67 BeloHorizonte PE Portuguesa
+U Vera 53 PortoAlegre RS Uruguaia
+U Bruno 64 Recife BA Uruguaia
+U Ines 62 Salvador RS Uruguaia
+U Bruno 58 PortoAlegre RJ Chilena
+U Rui 25 BeloHorizonte RJ Uruguaia
+U Ines 27 SaoPaulo SP Uruguaia
+U Carla 65 Fortaleza RJ Chilena
+U Hugo 33 SaoPaulo PR Uruguaia
+U Hugo 58 Fortaleza RS Chilena
+U Hugo 21 BeloHorizonte RJ Brasileira
+U Rui 32 RioDeJaneiro RS Chilena
+U Rui 21 Recife RJ Portuguesa
+U Kelly 50 PortoAlegre RS Portuguesa
+U Joao 56 Recife SP Portuguesa
+U Diego 35 Fortaleza PE Chilena
+U Hugo 67 BeloHorizonte BA Argentina
+U Sofia 67 Recife BA Argentina
+U Rui 30 BeloHorizonte SP Brasileira
+U Ines 57 SaoPaulo MG Uruguaia
+U Nina 50 Fortaleza BA Uruguaia
+U Gabi 65 Salvador SP Brasileira
+U Maria 33 Salvador PE Chilena
+U Bruno 34 Recife BA Brasileira
+U Otto 27 Salvador CE Brasileira
+U Bruno 57 Curitiba CE Portuguesa
+U Hugo 43 Recife MG Portuguesa
+U Vera 49 PortoAlegre PR Uruguaia
+U Tiago 28 Recife MG Brasileira
+U Maria 50 RioDeJaneiro RJ Brasileira
+U Carla 31 Salvador PE Uruguaia
+U Ines 45 Recife PE Brasileira
+U Bruno 60 Fortaleza RS Uruguaia
+U Rui 42 Curitiba CE Chilena
+U Ines 49 Fortaleza MG Brasileira
+U Kelly 19 Curitiba RS Portuguesa
+U Hugo 24 PortoAlegre MG Uruguaia
+U Diego 19 PortoAlegre SP Portuguesa
+U Sofia 69 Recife PR Uruguaia
+U Kelly 27 Salvador BA Chilena
+U Ana 25 Fortaleza PE Brasileira
+U Lucas 68 BeloHorizonte PE Argentina
+U Joao 36 Recife CE Argentina
+U Carla 67 SaoPaulo CE Portuguesa
+U Rui 24 BeloHorizonte CE Chilena
+U Kelly 41 Curitiba MG Chilena
+U Bruno 57 PortoAlegre MG Uruguaia
+U Tiago 43 SaoPaulo RS Chilena
+U Ana 70 PortoAlegre PR Chilena
+U Ines 66 PortoAlegre RS Brasileira
+U Diego 42 PortoAlegre RJ Brasileira
+U Paula 70 PortoAlegre PE Portuguesa
+U Tiago 65 Fortaleza MG Chilena
+U Elena 48 RioDeJaneiro CE Argentina
+U Otto 32 PortoAlegre PR Uruguaia
+U Ana 41 Fortaleza MG Portuguesa
+U Lucas 18 RioDeJaneiro BA Uruguaia
+U Bruno 49 Fortaleza PE Uruguaia
+U Diego 37 Curitiba RJ Chilena
+U Elena 60 Curitiba CE Portuguesa
+U Gabi 37 BeloHorizonte CE Uruguaia
+U Nina 42 Recife RJ Brasileira
+U Elena 57 Curitiba PE Chilena
+U Bruno 45 Curitiba PR Portuguesa
+U Otto 39 Salvador RS Brasileira
+U Ines 55 Salvador PE Brasileira
+U Diego 62 Curitiba MG Brasileira
+U Felipe 49 SaoPaulo SP Chilena
+U Tiago 58 RioDeJaneiro RS Uruguaia
+U Sofia 69 Recife MG Brasileira
+U Vera 28 Fortaleza RS Brasileira
+U Carla 65 RioDeJaneiro SP Portuguesa
+U Kelly 20 Recife PE Uruguaia
+U Carla 63 Salvador RS Uruguaia
+U Maria 45 Recife MG Uruguaia
+U Diego 35 Salvador SP Portuguesa
+U Maria 42 SaoPaulo PE Uruguaia
+U Vera 70 RioDeJaneiro CE Uruguaia
+U Bruno 67 Salvador PE Argentina
+U Joao 24 BeloHorizonte CE Argentina
+U Joao 47 Salvador PR Brasileira
+U Bruno 63 BeloHorizonte RS Uruguaia
+U Otto 36 PortoAlegre MG Argentina
+U Ana 69 PortoAlegre PE Chilena
+U Maria 52 RioDeJaneiro MG Uruguaia
+U Diego 31 RioDeJaneiro RJ Portuguesa
+U Tiago 47 RioDeJaneiro MG Argentina
+U Nina 24 Fortaleza SP Chilena
+U Ines 33 BeloHorizonte MG Argentina
+U Hugo 38 Salvador PR Portuguesa
+U Gabi 19 Salvador PE Chilena
+U Bruno 54 BeloHorizonte MG Chilena
+U Maria 52 RioDeJaneiro MG Portuguesa
+U Otto 62 Curitiba PE Brasileira
+U Maria 25 Recife PR Uruguaia
+U Hugo 64 Recife RS Portuguesa
+U Rui 38 Recife CE Brasileira
+U Paula 26 Salvador RS Portuguesa
+U Paula 57 Fortaleza PE Brasileira
+U Ana 56 Fortaleza PE Chilena
+U Kelly 52 PortoAlegre BA Uruguaia
+U Paula 66 RioDeJaneiro PR Uruguaia
+U Bruno 44 Salvador RS Uruguaia
+U Joao 64 RioDeJaneiro CE Portuguesa
+U Elena 45 BeloHorizonte RJ Chilena
+U Maria 64 RioDeJaneiro RS Argentina
+U Kelly 55 RioDeJaneiro MG Argentina
+U Vera 29 Salvador SP Uruguaia
+U Nina 18 BeloHorizonte PR Chilena
+U Diego 57 Salvador BA Brasileira
+U Ana 41 SaoPaulo PE Brasileira
+U Bruno 56 Fortaleza RJ Brasileira
+U Rui 41 Fortaleza PE Uruguaia
+U Felipe 60 Curitiba CE Portuguesa
+U Carla 26 Recife RS Portuguesa
+U Nina 20 Fortaleza PE Chilena
+U Gabi 34 Salvador PE Brasileira
+U Hugo 35 Curitiba SP Brasileira
+U Joao 19 Curitiba BA Argentina
+U Bruno 39 BeloHorizonte MG Uruguaia
+U Maria 45 Recife PE Portuguesa
+U Gabi 65 Recife PR Portuguesa
+U Rui 35 PortoAlegre PE Brasileira
+U Felipe 65 RioDeJaneiro RS Brasileira
+U Ines 63 RioDeJaneiro SP Uruguaia
+U Kelly 70 BeloHorizonte CE Argentina
+U Kelly 20 Fortaleza PR Portuguesa
+U Sofia 44 Curitiba PR Uruguaia
+U Elena 55 Recife RS Brasileira
+U Kelly 49 Fortaleza BA Uruguaia
+U Lucas 36 SaoPaulo SP Portuguesa
+U Hugo 61 Recife BA Portuguesa
+U Diego 54 BeloHorizonte CE Uruguaia
+U Nina 47 SaoPaulo RS Portuguesa
+U Joao 42 PortoAlegre BA Chilena
+U Maria 60 Fortaleza PR Chilena
+U Bruno 37 BeloHorizonte MG Brasileira
+U Kelly 61 Salvador PR Argentina
+U Sofia 51 RioDeJaneiro SP Portuguesa
+U Diego 59 Fortaleza MG Uruguaia
+U Felipe 61 PortoAlegre PR Portuguesa
+U Joao 31 Curitiba RJ Chilena
+U Elena 28 RioDeJaneiro MG Portuguesa
+U Tiago 52 Recife PR Portuguesa
+U Lucas 20 PortoAlegre PE Uruguaia
+U Tiago 38 Fortaleza PR Uruguaia
+U Nina 53 Recife PE Argentina
+U Paula 44 RioDeJaneiro RJ Brasileira
+U Gabi 21 Fortaleza SP Argentina
+U Kelly 30 RioDeJaneiro BA Uruguaia
+U Gabi 18 Curitiba RJ Chilena
+U Maria 41 PortoAlegre PR Portuguesa
+U Paula 62 SaoPaulo BA Uruguaia
+U Vera 35 BeloHorizonte RS Brasileira
+U Maria 27 Recife PR Brasileira
+U Hugo 26 SaoPaulo RJ Brasileira
+U Paula 62 Recife RJ Chilena
+U Kelly 69 Salvador PE Chilena
+U Elena 51 RioDeJaneiro SP Argentina
+U Nina 45 Curitiba RJ Brasileira
+U Lucas 47 Curitiba PR Chilena
+U Kelly 20 Recife PR Chilena
+U Sofia 63 Curitiba RS Chilena
+U Kelly 18 SaoPaulo PE Chilena
+U Elena 34 Curitiba PR Chilena
+U Joao 21 PortoAlegre RJ Brasileira
+U Nina 32 RioDeJaneiro BA Portuguesa
+U Tiago 47 SaoPaulo RS Chilena
+U Ines 67 Fortaleza RS Uruguaia
+U Tiago 24 RioDeJaneiro PE Chilena
+U Gabi 53 BeloHorizonte PE Chilena
+U Lucas 55 Recife PE Brasileira
+U Sofia 63 SaoPaulo PR Argentina
+U Rui 42 Recife MG Chilena
+U Ines 21 Salvador BA Brasileira
+U Vera 43 Fortaleza SP Portuguesa
+U Felipe 61 SaoPaulo SP Uruguaia
+U Maria 43 Fortaleza SP Chilena
+U Ana 40 Curitiba BA Chilena
+U Diego 57 PortoAlegre BA Argentina
+U Otto 22 Fortaleza RJ Uruguaia
+U Rui 52 PortoAlegre PR Uruguaia
+U Otto 51 SaoPaulo CE Chilena
+U Maria 40 Salvador RS Chilena
+U Kelly 65 RioDeJaneiro RJ Chilena
+U Sofia 22 SaoPaulo MG Uruguaia
+U Kelly 48 Salvador PE Argentina
+U Hugo 19 SaoPaulo BA Argentina
+U Carla 42 Curitiba SP Argentina
+U Otto 32 Recife RJ Uruguaia
+U Otto 39 Fortaleza PE Portuguesa
+U Rui 34 SaoPaulo SP Brasileira
+U Nina 52 Curitiba PE Uruguaia
+U Elena 40 RioDeJaneiro RJ Portuguesa
+U Lucas 27 Curitiba MG Argentina
+U Paula 61 SaoPaulo MG Portuguesa
+U Hugo 56 Recife SP Portuguesa
+U Tiago 39 PortoAlegre PE Chilena
+U Hugo 47 SaoPaulo RS Brasileira
+U Hugo 22 BeloHorizonte BA Argentina
+U Gabi 36 PortoAlegre RJ Chilena
+U Ana 32 PortoAlegre RS Uruguaia
+U Bruno 54 PortoAlegre BA Brasileira
+U Gabi 18 SaoPaulo PE Portuguesa
+U Lucas 26 SaoPaulo PR Uruguaia
+U Carla 63 SaoPaulo PR Uruguaia
+U Rui 59 Recife RS Uruguaia
+U Paula 67 Fortaleza PE Uruguaia
+U Ines 24 BeloHorizonte PE Brasileira
+U Bruno 54 RioDeJaneiro SP Brasileira
+U Ines 64 Salvador SP Portuguesa
+U Ines 58 PortoAlegre BA Chilena
+U Ana 70 PortoAlegre BA Brasileira
+U Tiago 59 Fortaleza RS Argentina
+U Vera 30 Curitiba BA Uruguaia
+U Sofia 19 Curitiba CE Portuguesa
+U Maria 30 Fortaleza PE Argentina
+U Nina 25 BeloHorizonte SP Brasileira
+U Ana 25 SaoPaulo PR Uruguaia
+U Nina 50 Salvador RS Uruguaia
+U Rui 29 Fortaleza MG Chilena
+U Bruno 50 Fortaleza RJ Uruguaia
+U Otto 52 BeloHorizonte SP Brasileira
+U Gabi 52 Recife SP Uruguaia
+U Sofia 19 PortoAlegre BA Uruguaia
+U Kelly 63 Recife MG Portuguesa
+U Joao 68 RioDeJaneiro CE Chilena
+U Paula 19 RioDeJaneiro SP Argentina
+U Nina 21 BeloHorizonte RS Brasileira
+U Maria 39 Fortaleza BA Portuguesa
+U Joao 21 Salvador PE Brasileira
+U Ines 22 BeloHorizonte SP Brasileira
+U Joao 19 Recife CE Brasileira
+U Bruno 22 Curitiba SP Argentina
+U Felipe 27 Recife RJ Portuguesa
+U Diego 42 Salvador PR Brasileira
+U Gabi 37 BeloHorizonte BA Uruguaia
+U Joao 41 Fortaleza PE Portuguesa
+U Kelly 65 Salvador CE Argentina
+U Carla 52 PortoAlegre PE Uruguaia
+U Otto 42 RioDeJaneiro RJ Argentina
+U Carla 38 RioDeJaneiro CE Portuguesa
+U Gabi 70 Recife MG Brasileira
+U Kelly 62 PortoAlegre PR Brasileira
+U Gabi 40 Salvador RS Portuguesa
+U Hugo 30 Fortaleza RS Portuguesa
+U Nina 62 RioDeJaneiro MG Uruguaia
+U Carla 20 RioDeJaneiro MG Chilena
+U Joao 22 RioDeJaneiro RS Chilena
+U Ines 38 PortoAlegre RJ Brasileira
+U Diego 29 BeloHorizonte MG Uruguaia
+U Sofia 22 RioDeJaneiro RJ Uruguaia
+U Tiago 37 Salvador BA Chilena
+U Rui 58 Salvador RS Uruguaia
+U Maria 23 BeloHorizonte MG Uruguaia
+U Hugo 25 Curitiba BA Uruguaia
+U Hugo 69 Fortaleza PE Chilena
+U Ana 62 PortoAlegre CE Portuguesa
+U Felipe 57 PortoAlegre CE Chilena
+U Ines 36 RioDeJaneiro PE Uruguaia
+U Gabi 34 PortoAlegre MG Uruguaia
+U Bruno 65 PortoAlegre PE Brasileira
+U Tiago 54 SaoPaulo CE Chilena
+U Carla 59 RioDeJaneiro PR Brasileira
+U Kelly 36 RioDeJaneiro BA Uruguaia
+U Ines 52 RioDeJaneiro PR Chilena
+U Otto 50 Fortaleza MG Portuguesa
+U Elena 42 BeloHorizonte PE Uruguaia
+U Gabi 22 Recife CE Brasileira
+U Carla 39 Curitiba BA Argentina
+U Lucas 31 Fortaleza CE Chilena
+U Sofia 31 Fortaleza CE Uruguaia
+U Felipe 20 Salvador BA Brasileira
+U Tiago 32 RioDeJaneiro PE Portuguesa
+U Maria 57 RioDeJaneiro PE Portuguesa
+U Kelly 55 Fortaleza BA Argentina
+U Bruno 20 Salvador MG Brasileira
+U Felipe 39 RioDeJaneiro RJ Argentina
+U Nina 39 BeloHorizonte CE Portuguesa
+U Hugo 20 SaoPaulo BA Brasileira
+U Elena 33 PortoAlegre PE Uruguaia
+U Joao 34 BeloHorizonte PE Uruguaia
+U Sofia 58 SaoPaulo PR Chilena
+U Nina 43 Recife PE Uruguaia
+U Otto 66 Fortaleza CE Uruguaia
+U Sofia 50 PortoAlegre CE Chilena
+U Rui 51 Salvador CE Portuguesa
+U Gabi 48 Fortaleza MG Argentina
+U Rui 43 Recife PE Portuguesa
+U Maria 59 SaoPaulo RJ Argentina
+U Lucas 31 SaoPaulo PR Argentina
+U Ana 47 SaoPaulo PE Argentina
+U Kelly 63 Salvador CE Argentina
+U Diego 68 Salvador PR Uruguaia
+U Diego 63 PortoAlegre MG Brasileira
+U Lucas 19 RioDeJaneiro CE Portuguesa
+U Tiago 55 RioDeJaneiro BA Uruguaia
+U Otto 34 Recife MG Chilena
+U Nina 31 Fortaleza RJ Portuguesa
+U Carla 50 Salvador RJ Chilena
+U Tiago 23 Fortaleza PE Uruguaia
+U Sofia 54 Recife MG Uruguaia
+U Tiago 25 Recife CE Brasileira
+U Ana 44 BeloHorizonte RJ Portuguesa
+U Tiago 59 SaoPaulo BA Uruguaia
+U Diego 30 Curitiba PE Portuguesa
+U Joao 41 Fortaleza CE Uruguaia
+U Kelly 34 Fortaleza PE Chilena
+U Ines 29 Curitiba BA Portuguesa
+U Kelly 21 Curitiba SP Uruguaia
+U Kelly 68 RioDeJaneiro RS Uruguaia
+U Lucas 29 Salvador MG Argentina
+U Rui 21 Fortaleza MG Portuguesa
+U Diego 51 RioDeJaneiro RS Portuguesa
+U Carla 30 Curitiba RJ Chilena
+U Sofia 20 Curitiba PR Chilena
+U Hugo 60 PortoAlegre RJ Brasileira
+U Carla 51 Salvador RS Uruguaia
+U Otto 23 Fortaleza SP Brasileira
+U Diego 58 SaoPaulo RJ Brasileira
+U Nina 26 Salvador PR Argentina
+U Diego 64 BeloHorizonte RS Brasileira
+U Nina 48 Curitiba RS Uruguaia
+U Maria 35 PortoAlegre MG Argentina
+U Gabi 48 Recife MG Uruguaia
+U Carla 45 SaoPaulo MG Uruguaia
+U Gabi 38 Curitiba PE Portuguesa
+U Joao 33 SaoPaulo PR Argentina
+U Kelly 30 BeloHorizonte RS Argentina
+U Tiago 25 RioDeJaneiro RS Brasileira
+U Maria 69 RioDeJaneiro RJ Portuguesa
+U Ines 70 Salvador RS Uruguaia
+U Kelly 41 BeloHorizonte RJ Brasileira
+U Felipe 27 BeloHorizonte MG Argentina
+U Gabi 55 BeloHorizonte PR Uruguaia
+U Otto 65 PortoAlegre PE Chilena
+U Joao 46 SaoPaulo BA Brasileira
+U Elena 26 Salvador MG Chilena
+U Diego 55 Salvador RJ Portuguesa
+U Carla 38 PortoAlegre MG Uruguaia
+U Paula 21 Fortaleza RS Brasileira
+U Joao 26 BeloHorizonte BA Portuguesa
+U Paula 50 Salvador MG Chilena
+U Maria 58 Curitiba MG Portuguesa
+U Gabi 40 PortoAlegre PR Portuguesa
+U Gabi 52 PortoAlegre PR Chilena
+U Ana 48 Recife RJ Uruguaia
+U Joao 70 Recife SP Brasileira
+U Rui 66 Salvador BA Portuguesa
+U Bruno 63 Curitiba RS Portuguesa
+U Felipe 53 Fortaleza BA Uruguaia
+U Felipe 47 PortoAlegre MG Uruguaia
+U Sofia 38 Curitiba CE Brasileira
+U Paula 31 RioDeJaneiro RS Brasileira
+U Kelly 65 Salvador MG Portuguesa
+U Felipe 40 Recife PE Portuguesa
+U Rui 57 SaoPaulo CE Uruguaia
+U Diego 38 PortoAlegre MG Portuguesa
+U Vera 63 BeloHorizonte PE Brasileira
+U Felipe 48 SaoPaulo PR Uruguaia
+U Maria 51 PortoAlegre CE Chilena
+U Sofia 44 Salvador SP Argentina
+U Tiago 22 SaoPaulo PE Brasileira
+U Ines 57 SaoPaulo RJ Uruguaia
+U Ana 64 Salvador BA Chilena
+U Kelly 36 Fortaleza MG Uruguaia
+U Felipe 45 Salvador CE Portuguesa
+U Vera 28 Salvador MG Chilena
+U Hugo 65 Recife SP Brasileira
+U Maria 26 PortoAlegre RJ Brasileira
+U Rui 22 Fortaleza CE Argentina
+U Sofia 29 Curitiba CE Portuguesa
+U Tiago 41 RioDeJaneiro MG Uruguaia
+U Hugo 24 PortoAlegre PR Portuguesa
+U Paula 18 Fortaleza CE Portuguesa
+U Gabi 70 BeloHorizonte MG Uruguaia
+U Bruno 59 Salvador RS Chilena
+U Diego 36 PortoAlegre BA Uruguaia
+U Ana 49 Curitiba PR Argentina
+U Rui 66 Fortaleza RS Portuguesa
+U Carla 43 RioDeJaneiro SP Portuguesa
+U Ines 29 Recife RS Brasileira
+U Paula 25 BeloHorizonte SP Portuguesa
+U Paula 22 Fortaleza RJ Chilena
+U Sofia 42 RioDeJaneiro PR Chilena
+U Bruno 52 Recife SP Argentina
+U Sofia 41 Recife MG Portuguesa
+U Ana 69 Fortaleza PE Argentina
+U Gabi 19 SaoPaulo RJ Portuguesa
+U Diego 32 Fortaleza MG Portuguesa
+U Joao 59 BeloHorizonte CE Portuguesa
+U Nina 19 SaoPaulo MG Portuguesa
+U Gabi 34 PortoAlegre MG Uruguaia
+U Ana 66 Curitiba MG Argentina
+U Felipe 46 Salvador CE Portuguesa
+U Vera 58 Recife SP Chilena
+U Maria 29 SaoPaulo SP Portuguesa
+U Ana 34 RioDeJaneiro PR Brasileira
+U Kelly 42 Fortaleza RS Uruguaia
+U Ines 33 Fortaleza PR Portuguesa
+U Nina 44 Fortaleza PR Brasileira
+U Tiago 39 Curitiba MG Argentina
+U Carla 45 RioDeJaneiro CE Portuguesa
+U Maria 50 Fortaleza BA Brasileira
+U Hugo 51 SaoPaulo SP Uruguaia
+U Kelly 28 SaoPaulo SP Brasileira
+U Otto 46 Fortaleza RS Argentina
+U Sofia 21 PortoAlegre RJ Chilena
+U Felipe 33 Fortaleza RJ Uruguaia
+U Joao 65 Recife MG Argentina
+U Ines 49 SaoPaulo RJ Brasileira
+U Elena 49 PortoAlegre BA Uruguaia
+U Rui 43 SaoPaulo RS Uruguaia
+U Felipe 69 PortoAlegre SP Brasileira
+U Kelly 29 SaoPaulo MG Argentina
+U Hugo 51 Fortaleza PE Chilena
+U Rui 39 PortoAlegre MG Argentina
+U Sofia 40 BeloHorizonte CE Chilena
+U Diego 37 Fortaleza PR Uruguaia
+U Sofia 31 SaoPaulo RS Portuguesa
+U Bruno 24 SaoPaulo CE Brasileira
+U Otto 46 SaoPaulo SP Uruguaia
+U Carla 57 SaoPaulo PR Brasileira
+U Ana 39 PortoAlegre PR Chilena
+U Gabi 43 Curitiba MG Portuguesa
+U Ana 37 Fortaleza CE Brasileira
+U Rui 42 PortoAlegre CE Brasileira
+U Paula 41 PortoAlegre PE Brasileira
+U Carla 65 RioDeJaneiro PE Argentina
+U Otto 32 Salvador PR Portuguesa
+U Ines 62 Salvador CE Brasileira
+U Nina 20 PortoAlegre RS Chilena
+U Elena 67 Salvador PR Chilena
+U Tiago 62 Fortaleza RJ Chilena
+U Maria 30 Curitiba SP Uruguaia
+U Kelly 39 PortoAlegre MG Portuguesa
+U Kelly 57 Fortaleza MG Argentina
+U Joao 26 Salvador BA Portuguesa
+U Ana 68 BeloHorizonte RS Portuguesa
+U Diego 20 SaoPaulo BA Portuguesa
+U Ana 47 Salvador RJ Portuguesa
+LU nome Sofia cidade BeloHorizonte
+LU idade 66 cidade Curitiba
+LU estado CE nacionalidade Uruguaia
+LU nacionalidade Argentina estado RS
+LU nome Diego estado PR
+LU nacionalidade Chilena nome Nina
+LU idade 60 estado PR
+LU cidade Fortaleza nacionalidade Portuguesa
+LU estado RJ idade 63
+LU nome Nina estado BA
+LU cidade SaoPaulo nacionalidade Chilena
+LU nacionalidade Portuguesa cidade Salvador
+LU cidade Salvador nacionalidade Argentina
+LU cidade PortoAlegre nacionalidade Portuguesa
+LU nome Nina estado PE
+LU cidade Recife estado RJ
+LU nome Carla cidade Curitiba
+LU cidade PortoAlegre estado RJ
+LU cidade PortoAlegre nome Kelly
+LU estado BA nacionalidade Chilena
+LU idade 51 cidade Fortaleza
+LU cidade Salvador nome Vera
+LU estado PR nacionalidade Chilena
+LU idade 36 cidade Recife
+LU cidade PortoAlegre nacionalidade Chilena
+LU nacionalidade Uruguaia estado RJ
+LU cidade Recife estado RJ
+LU nome Nina estado RS
+LU cidade PortoAlegre nacionalidade Chilena
+LU cidade SaoPaulo idade 19
+LU nome Nina estado PR
+LU nacionalidade Brasileira idade 53
+LU nome Joao estado SP
+LU estado PE cidade Curitiba
+LU cidade PortoAlegre idade 52
+LU nacionalidade Brasileira idade 37
+LU idade 64 nome Ines
+LU nacionalidade Argentina estado BA
+LU estado CE nacionalidade Chilena
+LU cidade SaoPaulo estado RS
+LU estado RJ idade 52
+LU estado RJ idade 19
+LU idade 21 cidade BeloHorizonte
+LU nome Sofia estado PE
+LU idade 63 cidade Recife
+LU cidade SaoPaulo estado BA
+LU nome Felipe idade 28
+LU idade 67 cidade PortoAlegre
+LU nome Tiago nacionalidade Uruguaia
+LU cidade Curitiba nome Joao
+LU nacionalidade Brasileira estado RS
+LU estado CE nacionalidade Chilena
+LU nome Tiago nacionalidade Brasileira
+LU nome Lucas estado BA
+LU nome Nina cidade Fortaleza
+LU idade 31 nacionalidade Portuguesa
+LU idade 32 cidade SaoPaulo
+LU estado RS nome Hugo
+LU estado RS nacionalidade Uruguaia
+LU nacionalidade Uruguaia cidade BeloHorizonte
+LU nacionalidade Uruguaia estado PE
+LU nacionalidade Argentina estado CE
+LU estado PR idade 54
+LU nome Otto idade 24
+LU cidade PortoAlegre estado MG
+LU cidade RioDeJaneiro nome Sofia
+LU idade 38 cidade SaoPaulo
+LU nome Ana estado RS
+LU idade 53 estado CE
+LU idade 37 cidade Salvador
+LU cidade Recife estado RS
+LU nacionalidade Portuguesa nome Lucas
+LU nacionalidade Uruguaia idade 53
+LU estado PR nacionalidade Argentina
+LU nome Elena cidade Salvador
+LU estado BA nacionalidade Brasileira
+LU nome Hugo estado PE
+LU nome Joao idade 62
+LU idade 66 cidade SaoPaulo
+LU cidade Recife nacionalidade Brasileira
+LU nacionalidade Portuguesa nome Ana
+LU idade 55 cidade BeloHorizonte
+LU nome Nina cidade SaoPaulo
+LU estado PR nacionalidade Portuguesa
+LU nome Lucas estado SP
+LU cidade Recife idade 67
+LU estado RS idade 62
+LU idade 43 nome Hugo
+LU nome Felipe idade 51
+LU estado PE nacionalidade Uruguaia
+LU nome Gabi estado RJ
+LU nacionalidade Argentina nome Maria
+LU nome Elena idade 32
+LU estado MG cidade Salvador
+LU idade 61 nome Joao
+LU nome Felipe cidade Curitiba
+LU cidade Fortaleza nome Maria
+LU estado RJ nacionalidade Chilena
+LU nacionalidade Chilena estado CE
+LU cidade Recife nacionalidade Uruguaia
+LU nome Tiago cidade SaoPaulo
+LU estado RS cidade Curitiba
+LU idade 39 estado RJ
+LU nome Ana estado RS
+LU nacionalidade Uruguaia cidade SaoPaulo
+LU nome Diego idade 62
+LU nacionalidade Chilena nome Paula
+LU nacionalidade Uruguaia nome Diego
+LU nome Ana cidade Salvador
+LU estado RJ cidade RioDeJaneiro
+LU estado PR nacionalidade Chilena
+LU idade 63 estado RS
+LU idade 66 nacionalidade Argentina
+LU cidade PortoAlegre idade 48
+LU nome Gabi cidade SaoPaulo
+LU estado SP idade 25
+LU nome Carla estado RJ
+LU estado PR nome Ines
+LU estado CE nacionalidade Portuguesa
+LU nacionalidade Brasileira cidade Curitiba
+LU idade 68 cidade Curitiba
+LU nacionalidade Uruguaia estado RJ
+LU nacionalidade Chilena idade 34
+LU idade 38 estado SP
+LU cidade Salvador nacionalidade Chilena
+LU nome Diego idade 52
+LU estado SP cidade RioDeJaneiro
+LU cidade BeloHorizonte nome Kelly
+LU cidade Recife estado SP
+LU nome Sofia idade 34
+LU estado RJ cidade Curitiba
+LU nome Ana nacionalidade Portuguesa
+LU cidade Fortaleza estado RJ
+LU nome Felipe estado RS
+LU nome Bruno cidade BeloHorizonte
+LU idade 51 nacionalidade Portuguesa
+LU estado BA nome Rui
+LU nome Ines nacionalidade Portuguesa
+LU nacionalidade Chilena idade 23
+LU nacionalidade Chilena estado PR
+LU cidade PortoAlegre estado MG
+LU cidade RioDeJaneiro nome Felipe
+LU cidade SaoPaulo idade 19
+LU estado CE idade 48
+LU cidade PortoAlegre nacionalidade Portuguesa
+LU nome Gabi nacionalidade Brasileira
+LU estado SP nome Rui
+LU nacionalidade Chilena cidade BeloHorizonte
+LU nome Nina estado PR
+LU idade 36 estado PE
+LU cidade Fortaleza nome Ines
+LU nacionalidade Argentina estado BA
+LU estado MG idade 69
+LU nome Felipe idade 53
+LU nacionalidade Argentina cidade Fortaleza
+LU nome Kelly cidade Fortaleza
+LU idade 41 nome Hugo
+LU nome Joao estado PE
+LU estado PR nome Maria
+LU idade 63 nome Lucas
+LU estado RJ nacionalidade Portuguesa
+LU nome Rui cidade Fortaleza
+LU nome Gabi estado RJ
+LU estado SP nacionalidade Portuguesa
+LU idade 21 nome Otto
+LU nome Joao idade 41
+LU cidade Recife estado MG
+LU nome Rui idade 60
+LU nacionalidade Portuguesa idade 35
+LU cidade PortoAlegre nome Joao
+LU cidade BeloHorizonte estado CE
+LU cidade Recife nome Tiago
+LU cidade PortoAlegre nome Rui
+LU nome Otto nacionalidade Portuguesa
+LU nome Nina idade 36
+LU idade 61 cidade Curitiba
+LU nacionalidade Portuguesa estado MG
+LU idade 31 cidade Recife
+LU cidade SaoPaulo estado RJ
+LU estado PE cidade BeloHorizonte
+LU nome Felipe idade 21
+LU nome Felipe cidade BeloHorizonte
+LU nome Felipe estado BA
+LU nacionalidade Brasileira idade 56
+LU nome Elena cidade PortoAlegre
+LU estado PR nacionalidade Portuguesa
+LU cidade Curitiba nacionalidade Uruguaia
+LU idade 47 nacionalidade Brasileira
+LU estado RJ nacionalidade Uruguaia
+LU nacionalidade Uruguaia idade 22
+LU idade 48 nome Felipe
+LU idade 42 cidade Curitiba
+LU cidade PortoAlegre estado RS
+LU cidade RioDeJaneiro idade 22
+LU estado CE cidade RioDeJaneiro
+LU cidade SaoPaulo nome Tiago
+LU cidade Recife nome Gabi
+LU nome Rui estado BA
+LU idade 65 nome Tiago
+LU cidade Recife idade 48
+LU idade 30 estado PE
+LU cidade Salvador nome Ana
+LU nome Lucas idade 55
+LU nacionalidade Portuguesa estado BA
+LU estado PR nacionalidade Argentina
+LU nome Felipe nacionalidade Argentina
+LU cidade Recife estado RS
+LU nome Felipe cidade Salvador
+LU idade 63 nome Diego
+LU estado SP idade 65
+LU nome Nina cidade PortoAlegre
+LU estado MG idade 18
+LU cidade Recife nome Maria
+LU estado CE nacionalidade Brasileira
+LU nome Tiago nacionalidade Chilena
+LU idade 42 estado PE
+LU nacionalidade Chilena idade 59
+LU estado PR idade 53
+LU estado RJ nome Rui
+LU estado MG cidade PortoAlegre
+LU nacionalidade Uruguaia estado MG
+LU nacionalidade Uruguaia nome Felipe
+LU nome Nina idade 59
+LU idade 18 nome Maria
+LU nome Rui nacionalidade Uruguaia
+LU cidade RioDeJaneiro idade 36
+LU idade 55 estado PR
+LU nacionalidade Portuguesa nome Elena
+LU nome Vera estado RS
+LU idade 44 cidade PortoAlegre
+LU estado RS nome Diego
+LU nacionalidade Portuguesa cidade Fortaleza
+LU nome Rui nacionalidade Chilena
+LU estado PE cidade Recife
+LU estado PR nacionalidade Brasileira
+LU estado BA nome Ines
+LU nome Lucas estado PR
+LU nacionalidade Argentina estado PR
+LU nome Carla estado BA
+LU idade 39 nome Gabi
+LU nome Felipe nacionalidade Brasileira
+LU nome Paula idade 48
+LU estado RS idade 19
+LU cidade Fortaleza estado RJ
+LU estado PR nome Joao
+LU nacionalidade Argentina cidade RioDeJaneiro
+LU idade 28 estado RJ
+LU nacionalidade Argentina nome Carla
+LU idade 23 nome Paula
+LU estado SP idade 65
+LU estado CE nome Diego
+LU cidade Recife nacionalidade Brasileira
+LU estado PR cidade SaoPaulo
+LU idade 34 cidade Fortaleza
+LU nome Lucas estado PR
+LU estado SP idade 38
+LU cidade RioDeJaneiro estado SP
+LU nome Gabi nacionalidade Chilena
+LU cidade PortoAlegre idade 40
+LU cidade Curitiba estado PE
+LU idade 18 nome Nina
+LU nacionalidade Chilena estado MG
+LU idade 60 cidade Curitiba
+LU estado RJ cidade SaoPaulo
+LU nacionalidade Portuguesa idade 31
+LU nacionalidade Brasileira idade 61
+LU cidade PortoAlegre idade 37
+LU idade 64 nome Nina
+LU nacionalidade Portuguesa nome Lucas
+LU idade 45 nome Otto
+LU nacionalidade Chilena estado CE
+LU estado RJ nome Sofia
+LU idade 23 estado RJ
+LU nacionalidade Chilena nome Nina
+LU nome Ines cidade PortoAlegre
+LU nacionalidade Argentina nome Maria
+LU nome Felipe estado PR
+LU idade 60 cidade Fortaleza
+LU nacionalidade Uruguaia estado CE
+LU cidade Salvador nacionalidade Brasileira
+LU nome Ines estado PE
+LU nome Vera cidade Salvador
+LU cidade BeloHorizonte nome Hugo
+LU cidade BeloHorizonte nome Maria
+LU idade 51 cidade RioDeJaneiro
+LU estado RJ nome Rui
+LU estado SP nome Kelly
+LU nome Hugo estado MG
+LU nacionalidade Uruguaia nome Paula
+LU idade 23 estado PE
+LU nome Elena cidade Recife
+LU nome Elena nacionalidade Brasileira
+LU nacionalidade Argentina nome Ines
+LU idade 59 estado MG
+LU estado MG nome Otto
+LU nacionalidade Argentina idade 45
+LU nome Sofia cidade RioDeJaneiro
+LU estado BA nacionalidade Brasileira
+LU estado CE cidade Recife
+LU estado PR nome Joao
+LU idade 55 nacionalidade Chilena
+LU cidade BeloHorizonte idade 22
+LU idade 59 estado MG
+LU estado RS nome Gabi
+LU idade 26 nacionalidade Uruguaia
+LU idade 60 nome Elena
+LU idade 23 estado RJ
+LU cidade Recife nome Ana
+LU idade 52 nome Kelly
+LU cidade Recife nacionalidade Chilena
+LU estado BA cidade Fortaleza
+LU nacionalidade Chilena cidade SaoPaulo
+LU nome Vera cidade RioDeJaneiro
+LU nome Bruno nacionalidade Portuguesa
+LU idade 59 nome Carla
+LU cidade SaoPaulo nome Lucas
+LU nacionalidade Chilena nome Diego
+LU cidade Curitiba nacionalidade Brasileira
+LU estado SP idade 41
+LU estado RS cidade Fortaleza
+LU idade 25 estado MG
+LU cidade Recife idade 56
+LU idade 22 estado RS
+LU nome Hugo cidade Recife
+LU nome Otto estado RJ
+LU estado PE cidade RioDeJaneiro
+LU nacionalidade Brasileira idade 21
+LU nome Maria estado BA
+LU estado RS nome Diego
+LU nacionalidade Uruguaia nome Sofia
+LU idade 58 cidade SaoPaulo
+LU nome Nina estado PE
+LU nacionalidade Portuguesa idade 24
+LU idade 25 nacionalidade Argentina
+LU cidade RioDeJaneiro idade 61
+LU nacionalidade Chilena estado RS
+LU cidade PortoAlegre nome Lucas
+LU nacionalidade Chilena nome Maria
+LU nome Maria nacionalidade Chilena
+LU idade 30 nome Lucas
+LU nome Carla estado RJ
+LU estado BA nacionalidade Portuguesa
+LU nome Ana idade 59
+LU estado BA nacionalidade Uruguaia
+LU nome Bruno idade 37
+LU estado MG cidade Recife
+LU nome Joao nacionalidade Portuguesa
+LU idade 70 nome Sofia
+LU idade 59 nacionalidade Chilena
+LU nacionalidade Argentina cidade RioDeJaneiro
+LU idade 61 nome Tiago
+LU cidade Curitiba idade 67
+LU estado RJ nome Nina
+LU estado CE idade 60
+LU nacionalidade Portuguesa idade 70
+LU estado RS cidade Recife
+LU nome Bruno idade 61
+LU idade 33 nome Ana
+LU estado RS nacionalidade Chilena
+LU cidade Fortaleza nome Tiago
+LU nome Otto cidade Salvador
+LU nome Rui estado PE
+LU cidade PortoAlegre estado CE
+LU nome Tiago estado RS
+LU cidade Curitiba nome Ines
+LU nacionalidade Chilena cidade Salvador
+LU cidade Fortaleza estado MG
+LU nacionalidade Chilena cidade SaoPaulo
+LU nacionalidade Portuguesa nome Ines
+LU nacionalidade Chilena estado BA
+LU cidade Fortaleza nome Elena
+LU nacionalidade Chilena cidade PortoAlegre
+LU estado SP nome Tiago
+LU nome Elena nacionalidade Portuguesa
+LU idade 51 estado BA
+LU cidade Fortaleza nome Nina
+LU estado PE nome Felipe
+LU estado RS cidade Recife
+LU nacionalidade Portuguesa nome Elena
+LU idade 30 estado CE
+LU estado PR nacionalidade Chilena
+LU nome Paula estado SP
+LU nome Paula cidade RioDeJaneiro
+LU nacionalidade Portuguesa nome Bruno
+LU estado SP nacionalidade Uruguaia
+LU cidade PortoAlegre nome Vera
+LU cidade Curitiba idade 69
+LU idade 60 nacionalidade Chilena
+LU nome Paula estado PE
+LU nacionalidade Chilena estado MG
+LU cidade Recife nome Sofia
+LU estado PE cidade Salvador
+LU idade 63 cidade Recife
+LU nacionalidade Chilena idade 56
+LU cidade RioDeJaneiro estado SP
+LU nome Carla nacionalidade Chilena
+LU nome Rui nacionalidade Chilena
+LU estado RS idade 46
+LU cidade Fortaleza nome Tiago
+LU idade 49 estado BA
+LU nacionalidade Chilena nome Gabi
+LU nacionalidade Brasileira idade 66
+LU idade 47 nacionalidade Portuguesa
+LU nome Ana nacionalidade Brasileira
+LU idade 18 nome Lucas
+LU nome Joao estado CE
+LU cidade BeloHorizonte estado CE
+LU estado RJ nacionalidade Brasileira
+LU nome Kelly nacionalidade Portuguesa
+LU estado RS cidade Curitiba
+LU nome Elena idade 32
+LU nome Paula cidade Recife
+LU idade 63 cidade SaoPaulo
+LU nacionalidade Uruguaia idade 44
+LU nacionalidade Brasileira nome Diego
+LU nome Felipe estado CE
+LU nome Maria idade 55
+LU estado SP nacionalidade Argentina
+LU cidade SaoPaulo estado BA
+LU nacionalidade Argentina idade 35
+LU cidade Fortaleza nacionalidade Brasileira
+LU nacionalidade Uruguaia nome Maria
+LU estado MG nacionalidade Brasileira
+LU cidade Salvador estado MG
+LU nacionalidade Chilena idade 22
+LU cidade Recife idade 45
+LU nome Ines idade 18
+LU cidade Fortaleza nome Ines
+LU nome Elena nacionalidade Chilena
+LU cidade SaoPaulo estado RJ
+LU nome Nina estado PR
+LU nome Felipe idade 36
+LU nome Lucas estado PR
+LU nome Paula nacionalidade Portuguesa
+LU idade 35 cidade RioDeJaneiro
+LU idade 63 cidade PortoAlegre
+LU estado BA nacionalidade Argentina
+LU nacionalidade Chilena estado RS
+LU nacionalidade Chilena cidade Fortaleza
+LU nacionalidade Brasileira idade 20
+LU estado RJ idade 22
+LU estado BA idade 54
+LU nacionalidade Chilena estado CE
+LU idade 70 nacionalidade Brasileira
+LU idade 25 nacionalidade Portuguesa
+LU idade 37 cidade BeloHorizonte
+LU nome Otto nacionalidade Argentina
+LU cidade Recife nacionalidade Argentina
+LU estado CE cidade RioDeJaneiro
+LU idade 23 nacionalidade Uruguaia
+LU idade 39 nome Maria
+LU idade 20 nome Paula
+LU cidade BeloHorizonte estado RS
+LU idade 29 estado PE
+LU idade 45 nome Paula
+LU idade 42 nacionalidade Brasileira
+LU idade 24 estado CE
+LU nome Nina cidade SaoPaulo
+LU estado SP nacionalidade Uruguaia
+LU nome Maria idade 70
+LU nacionalidade Brasileira nome Elena
+LU cidade Salvador estado BA
+LU cidade Recife estado RJ
+LU nome Carla cidade SaoPaulo
+LU nome Otto idade 64
+LU cidade SaoPaulo estado CE
+LU idade 65 estado SP
+LU cidade Salvador nome Tiago
+LU estado MG nacionalidade Brasileira
+LU nome Diego estado PE
+LU estado PR nacionalidade Argentina
+LU cidade RioDeJaneiro idade 70
+LU estado BA idade 39
+LU estado RJ idade 52
+LU cidade Fortaleza estado PR
+LU nacionalidade Portuguesa estado SP
+LU nome Carla nacionalidade Portuguesa
+LU idade 36 cidade Salvador
+LU estado MG idade 56
+LU nome Nina cidade BeloHorizonte
+LU estado PE nacionalidade Chilena
+LU idade 18 cidade SaoPaulo
+LU nacionalidade Chilena idade 43
+LU estado BA nacionalidade Portuguesa
+LU idade 41 nome Kelly
+LU estado RS idade 40
+LU nome Elena nacionalidade Uruguaia
+LU nome Otto estado CE
+LU nome Kelly estado SP
+LU estado RS idade 46
+LU estado PE idade 48
+LU cidade RioDeJaneiro nome Elena
+LU cidade PortoAlegre idade 64
+LU nacionalidade Brasileira cidade Recife
+LU estado RJ nome Lucas
+LU nacionalidade Brasileira nome Nina
+LU idade 26 cidade PortoAlegre
+LU cidade BeloHorizonte estado PE
+LU cidade SaoPaulo estado PE
+LU estado RJ nacionalidade Uruguaia
+LU idade 65 nome Vera
+LU nome Paula estado SP
+LU nacionalidade Chilena estado RS
+LU cidade Fortaleza nacionalidade Chilena
+LU estado BA nacionalidade Portuguesa
+LU idade 40 nome Lucas
+LU idade 61 estado PR
+LU cidade Curitiba nome Otto
+LU cidade RioDeJaneiro nacionalidade Chilena
+LU estado RJ idade 65
+LU cidade Curitiba estado CE
+LU nome Ana idade 38
+LU estado BA cidade Recife
+LU cidade BeloHorizonte idade 66
+LU nome Maria nacionalidade Argentina
+LU nacionalidade Uruguaia estado SP
+LU idade 36 estado SP
+LU estado PR cidade Salvador
+LU cidade PortoAlegre nacionalidade Portuguesa
+LU estado PE nome Gabi
+LU nome Joao idade 49
+LU cidade SaoPaulo nacionalidade Chilena
+LU nacionalidade Uruguaia nome Sofia
+LU nacionalidade Uruguaia idade 59
+LU estado MG cidade Curitiba
+LU nacionalidade Argentina idade 37
+LU idade 21 estado RJ
+LU idade 36 cidade Curitiba
+LU nacionalidade Uruguaia idade 62
+LU nome Paula idade 57
+LU idade 42 nacionalidade Chilena
+LU nacionalidade Argentina cidade SaoPaulo
+LU idade 32 cidade SaoPaulo
+LU cidade Salvador estado RS
+LU cidade SaoPaulo estado RJ
+LU nome Elena nacionalidade Argentina
+LU cidade PortoAlegre estado BA
+LU idade 39 estado PR
+LU cidade PortoAlegre estado BA
+LU nome Gabi idade 26
+LU nacionalidade Portuguesa cidade Fortaleza
+LU nome Joao nacionalidade Chilena
+LU nacionalidade Brasileira nome Maria
+LU cidade BeloHorizonte nome Rui
+LU nacionalidade Portuguesa nome Ines
+LU idade 21 estado MG
+LU nome Joao estado MG
+LU nome Hugo estado SP
+LU idade 32 cidade BeloHorizonte
+LU cidade SaoPaulo nome Paula
+LU nome Felipe cidade RioDeJaneiro
+LU estado PR idade 32
+LU idade 49 estado SP
+LU cidade PortoAlegre nome Ana
+LU nome Kelly estado RS
+LU estado RS idade 54
+LU nome Nina estado RJ
+LU idade 22 nome Lucas
+LU nacionalidade Uruguaia cidade RioDeJaneiro
+LU nacionalidade Uruguaia idade 22
+LU nacionalidade Brasileira nome Nina
+LU nacionalidade Chilena nome Bruno
+LU estado PE nacionalidade Brasileira
+LU nome Vera cidade Fortaleza
+LU cidade Recife nacionalidade Chilena
+LU estado SP cidade SaoPaulo
+LU nome Nina idade 24
+LU nome Rui cidade Curitiba
+LU cidade Salvador nome Tiago
+LU nacionalidade Portuguesa nome Vera
+LU nome Rui idade 50
+LU nome Paula nacionalidade Brasileira
+LU nacionalidade Portuguesa nome Sofia
+LU nome Ines estado CE
+LU estado SP nacionalidade Uruguaia
+LU nacionalidade Portuguesa idade 59
+LU idade 50 nome Lucas
+LU idade 21 cidade Fortaleza
+LU estado CE nome Hugo
+LU idade 29 nacionalidade Argentina
+LU idade 23 nome Sofia
+LU nacionalidade Argentina idade 25
+LU nacionalidade Uruguaia estado PE
+LU nome Ana cidade Curitiba
+LU nacionalidade Argentina estado RJ
+LU nome Kelly nacionalidade Argentina
+LU estado BA cidade Recife
+LU estado SP idade 43
+LU idade 70 estado RS
+LU nome Kelly cidade SaoPaulo
+LU cidade RioDeJaneiro nome Felipe
+LU cidade Recife estado RJ
+LU cidade Recife estado BA
+LU nacionalidade Portuguesa idade 26
+LU nome Otto nacionalidade Argentina
+LU idade 61 nome Vera
+LU nome Bruno estado CE
+LU estado RS nome Carla
+LU idade 47 nacionalidade Brasileira
+LU cidade BeloHorizonte nacionalidade Portuguesa
+LU cidade Recife nacionalidade Uruguaia
+LU idade 54 cidade BeloHorizonte
+LU nome Carla estado BA
+LU nome Elena idade 24
+LU nome Rui estado RS
+LU nacionalidade Argentina cidade RioDeJaneiro
+LU cidade Salvador idade 24
+LU cidade PortoAlegre nacionalidade Chilena
+LU estado MG nacionalidade Portuguesa
+LU nacionalidade Argentina estado RS
+LU nome Vera nacionalidade Brasileira
+LU nacionalidade Uruguaia idade 37
+LU estado CE cidade BeloHorizonte
+LU idade 42 cidade BeloHorizonte
+LU nome Hugo estado RJ
+LU nacionalidade Uruguaia cidade Recife
+LU cidade Curitiba nacionalidade Uruguaia
+LU nacionalidade Argentina cidade Curitiba
+LU estado RS nome Nina
+LU cidade Fortaleza estado SP
+LU cidade SaoPaulo nacionalidade Brasileira
+LU cidade Recife idade 23
+LU nome Sofia nacionalidade Brasileira
+LU cidade Fortaleza nome Sofia
+LU nome Gabi cidade PortoAlegre
+LU estado RS nacionalidade Uruguaia
+LU cidade RioDeJaneiro idade 53
+LU idade 44 estado CE
+LU nacionalidade Argentina estado PE
+LU estado RS nome Otto
+LU estado RJ nome Bruno
+LU nacionalidade Brasileira cidade SaoPaulo
+LU nome Joao estado PR
+LU nacionalidade Chilena idade 32
+LU nacionalidade Brasileira estado CE
+LU cidade RioDeJaneiro nacionalidade Uruguaia
+LU nacionalidade Chilena nome Sofia
+LU nome Hugo cidade Fortaleza
+LU idade 49 cidade Fortaleza
+LU nome Diego nacionalidade Chilena
+LU idade 27 estado BA
+LU nacionalidade Argentina estado CE
+LU nacionalidade Chilena nome Maria
+LU estado PE cidade Curitiba
+LU estado CE cidade Curitiba
+LU idade 40 nacionalidade Argentina
+LU cidade Fortaleza nome Hugo
+LU estado RS nacionalidade Brasileira
+LU estado SP cidade SaoPaulo
+LU idade 60 nome Sofia
+LU cidade Recife nome Elena
+LU idade 22 cidade BeloHorizonte
+LU nome Rui cidade RioDeJaneiro
+LU nome Kelly estado PE
+LU nacionalidade Portuguesa idade 38
+LU idade 51 nacionalidade Chilena
+LU cidade BeloHorizonte nacionalidade Argentina
+LU estado PR nome Nina
+LU estado PE nome Gabi
+LU nome Nina estado RS
+LU cidade SaoPaulo idade 34
+LU cidade Curitiba idade 51
+LU cidade Recife nacionalidade Portuguesa
+LU idade 43 nome Elena
+LU idade 57 cidade Salvador
+LU estado BA idade 49
+LU nacionalidade Brasileira cidade Recife
+LU cidade RioDeJaneiro estado PR
+LU cidade Fortaleza nome Paula
+LU idade 37 nacionalidade Chilena
+LU cidade Fortaleza estado RJ
+LU idade 70 nome Ines
+LU nacionalidade Portuguesa nome Kelly
+LU cidade Salvador nacionalidade Argentina
+LU idade 37 nome Joao
+LU cidade Salvador idade 63
+LU cidade PortoAlegre nome Tiago
+LU cidade RioDeJaneiro idade 37
+LU estado BA idade 18
+LU idade 59 nome Diego
+LU nome Otto nacionalidade Portuguesa
+LU estado RJ nacionalidade Argentina
+LU cidade Salvador idade 22
+LU nacionalidade Brasileira cidade PortoAlegre
+LU nacionalidade Brasileira nome Carla
+LU estado CE idade 30
+LU nome Hugo idade 70
+LU estado RS idade 53
+LU nacionalidade Chilena idade 48
+LU cidade Fortaleza idade 36
+LU cidade Curitiba estado PR
+LU nome Hugo cidade Salvador
+LU idade 57 cidade Fortaleza
+LU idade 52 estado SP
+LU nome Joao estado RS
+LU nacionalidade Portuguesa idade 58
+LU nome Diego cidade PortoAlegre
+LU estado MG idade 26
+LU nacionalidade Brasileira nome Rui
+LU idade 39 estado PE
+LU nome Vera cidade RioDeJaneiro
+LU estado RS idade 56
+LU cidade Salvador idade 57
+LU estado CE nacionalidade Portuguesa
+LU estado MG nome Ana
+LU estado MG nacionalidade Portuguesa
+LU cidade RioDeJaneiro estado SP
+LU estado PE cidade RioDeJaneiro
+LU estado BA nome Nina
+LU estado RJ idade 45
+LU cidade SaoPaulo nacionalidade Chilena
+LU nome Sofia cidade PortoAlegre
+LU idade 42 cidade BeloHorizonte
+LU nacionalidade Chilena cidade Curitiba
+LU estado RJ nome Felipe
+LU estado RS idade 29
+LU nacionalidade Chilena idade 25
+LU cidade RioDeJaneiro nome Kelly
+LU estado SP nome Ines
+LU estado RS nacionalidade Argentina
+LU cidade Curitiba nacionalidade Portuguesa
+LU idade 48 cidade PortoAlegre
+LU nome Ana estado PR
+LU estado RJ cidade PortoAlegre
+LU cidade Fortaleza estado SP
+LU estado PE nome Lucas
+LU nacionalidade Portuguesa idade 54
+LU cidade Salvador estado CE
+LU estado PR idade 28
+LU idade 60 estado PR
+LU estado RJ nacionalidade Argentina
+LU idade 25 nacionalidade Portuguesa
+LU nome Gabi cidade Salvador
+LU cidade BeloHorizonte nome Diego
+LU cidade BeloHorizonte idade 69
+LU nome Gabi nacionalidade Portuguesa
+LU nome Lucas nacionalidade Chilena
+LU estado RS nome Otto
+LU nacionalidade Chilena nome Otto
+LU idade 65 nacionalidade Chilena
+LU nacionalidade Chilena cidade SaoPaulo
+LU nacionalidade Chilena estado MG
+LU estado PE nacionalidade Portuguesa
+LU nome Maria idade 29
+LU nome Ana idade 61
+LU estado MG nacionalidade Argentina
+LU nacionalidade Argentina idade 24
+LU nacionalidade Uruguaia estado PE
+LU idade 37 nome Hugo
+LU idade 32 cidade RioDeJaneiro
+LU estado PR idade 30
+LU cidade RioDeJaneiro idade 45
+LU idade 68 nacionalidade Uruguaia
+LU cidade PortoAlegre nome Rui
+LU idade 55 estado RJ
+LU idade 52 cidade Fortaleza
+LU nome Felipe estado PE
+LU idade 52 nacionalidade Chilena
+LU nome Ana cidade Fortaleza
+LU idade 60 cidade Recife
+LU estado RJ cidade RioDeJaneiro
+LU nacionalidade Portuguesa idade 54
+LU idade 50 estado SP
+LU estado BA idade 67
+LU idade 46 estado SP
+LU idade 25 cidade PortoAlegre
+LU cidade SaoPaulo nacionalidade Brasileira
+LU nome Gabi idade 26
+LU idade 27 cidade PortoAlegre
+LU nacionalidade Argentina estado BA
+LU nome Tiago nacionalidade Uruguaia
+LU nome Gabi nacionalidade Uruguaia
+LU cidade SaoPaulo estado SP
+LU idade 38 nacionalidade Uruguaia
+LU estado RJ idade 51
+LU nacionalidade Uruguaia idade 38
+LU cidade Curitiba idade 49
+LU estado PE cidade Recife
+LU estado SP nacionalidade Portuguesa
+LU cidade Recife estado PR
+LU nacionalidade Portuguesa cidade Curitiba
+LU cidade Recife estado RS
+LU nacionalidade Uruguaia cidade Fortaleza
+LU cidade RioDeJaneiro estado SP
+LU cidade Salvador idade 29
+LU estado PE idade 29
+LU idade 62 cidade Salvador
+LU cidade Curitiba nome Vera
+LU estado CE cidade Curitiba
+LU nome Bruno idade 20
+LU nome Rui idade 30
+LU nome Felipe nacionalidade Uruguaia
+LU nome Kelly nacionalidade Portuguesa
+LU idade 21 nacionalidade Argentina
+LU idade 48 cidade Fortaleza
+LU nacionalidade Brasileira estado MG
+LU nacionalidade Portuguesa nome Felipe
+LU estado MG cidade SaoPaulo
+LU cidade SaoPaulo nacionalidade Argentina
+LU nacionalidade Chilena idade 39
+LU idade 70 nacionalidade Brasileira
+LU nome Ines estado PR
+LU cidade Salvador nome Ana
+LU idade 49 nome Otto
+LU nome Bruno idade 43
+LU estado PE nacionalidade Portuguesa
+LU cidade SaoPaulo idade 65
+LU nacionalidade Uruguaia cidade BeloHorizonte
+LU estado PE idade 44
+LU nacionalidade Uruguaia nome Otto
+LU nacionalidade Uruguaia cidade RioDeJaneiro
+LU idade 63 cidade Recife
+LU nome Ines cidade Salvador
+LU cidade BeloHorizonte estado RS
+LU estado PR nome Sofia
+LU estado PE nome Hugo
+LU cidade Fortaleza estado RS
+LU estado SP nacionalidade Brasileira
+LU idade 38 estado SP
+LU nome Rui nacionalidade Portuguesa
+LU nacionalidade Argentina estado CE
+LU cidade Recife estado CE
+LU cidade Salvador idade 41
+LU idade 22 estado MG
+LU cidade PortoAlegre idade 46
+LU nome Gabi cidade RioDeJaneiro
+LU idade 20 estado RJ
+LU estado CE cidade BeloHorizonte
+LU nome Tiago estado BA
+LU estado PE nome Paula
+LU nacionalidade Argentina nome Ines
+LU nacionalidade Brasileira idade 47
+LU idade 21 nacionalidade Brasileira
+LU estado CE nacionalidade Argentina
+LU nacionalidade Argentina estado BA
+LU nome Nina idade 56
+LU cidade Fortaleza idade 33
+LU nome Ana nacionalidade Chilena
+LU cidade RioDeJaneiro estado BA
+LU nacionalidade Argentina idade 21
+LU idade 22 nacionalidade Chilena
+LU estado CE nacionalidade Argentina
+LU idade 58 nome Nina
+LU estado RS nacionalidade Argentina
+LU nome Paula cidade RioDeJaneiro
+LU nome Elena idade 36
+LU nome Hugo idade 69
+LU nacionalidade Chilena idade 43
+LU nome Maria cidade Curitiba
+LU idade 26 nacionalidade Uruguaia
+LU cidade Salvador estado SP
+LU estado MG idade 47
+LU nacionalidade Uruguaia estado RJ
+LU idade 35 nome Sofia
+LU estado RJ cidade BeloHorizonte
+LU estado BA idade 24
+LU cidade BeloHorizonte idade 68
+LU estado PR cidade Salvador
+LU cidade Fortaleza estado PR
+LU nome Vera estado CE
+LU nome Ines cidade SaoPaulo
+LU nome Ana idade 32
+LU nome Felipe estado PE
+LU idade 40 cidade Curitiba
+LU nome Ines idade 56
+LU cidade Salvador estado BA
+LU nome Bruno nacionalidade Chilena
+LU idade 26 cidade SaoPaulo
+LU cidade Fortaleza estado BA
+LU cidade RioDeJaneiro nome Kelly
+LU idade 19 nome Lucas
+LU nacionalidade Chilena estado PR
+LU idade 70 estado PE
+LU nacionalidade Portuguesa cidade PortoAlegre
+LU estado MG idade 50
+LU estado PR nome Diego
+LU nacionalidade Argentina estado RS
+LU idade 41 cidade Recife
+LU cidade Recife nacionalidade Argentina
+LU cidade Fortaleza estado RS
+LU nome Otto cidade BeloHorizonte
+LU idade 53 nacionalidade Uruguaia
+LU estado CE nacionalidade Uruguaia
+LU estado MG nacionalidade Argentina
+LU cidade PortoAlegre idade 41
+LU nacionalidade Argentina cidade RioDeJaneiro
+LU idade 18 nacionalidade Chilena
+LU cidade SaoPaulo nome Ana
+LU nome Maria idade 31
+LU cidade Fortaleza nacionalidade Uruguaia
+LU nacionalidade Uruguaia estado RS
+LU nome Otto nacionalidade Argentina
+LU nome Lucas nacionalidade Brasileira
+LU idade 38 nacionalidade Brasileira
+LU cidade Curitiba nome Ines
+LU nome Tiago idade 46
+LU estado BA idade 64
+LU nacionalidade Argentina idade 29
+LU idade 33 nome Rui
+LU idade 35 estado BA
+LU nome Bruno estado RJ
+LU estado CE cidade SaoPaulo
+LU nacionalidade Portuguesa idade 44
+LU nome Nina nacionalidade Argentina
+LU idade 21 cidade BeloHorizonte
+LU estado SP nome Lucas
+LU idade 33 nacionalidade Argentina
+LU nacionalidade Uruguaia idade 58
+LU idade 42 nacionalidade Portuguesa
+LU nome Kelly estado PE
+LU estado SP idade 27
+LU cidade PortoAlegre estado BA
+LU nacionalidade Chilena idade 39
+LU nome Maria nacionalidade Argentina
+LU estado CE nome Tiago
+LU estado CE idade 26
+LU cidade SaoPaulo nome Kelly
+LU nome Tiago cidade PortoAlegre
+LU estado PR nacionalidade Chilena
+LU estado BA nome Tiago
+LU cidade PortoAlegre idade 40
+LU estado PE nacionalidade Brasileira
+LU nome Sofia cidade Salvador
+LU idade 50 estado PR
+LU nacionalidade Chilena nome Rui
+LU estado CE cidade PortoAlegre
+LU nacionalidade Uruguaia cidade Curitiba
+LU nacionalidade Brasileira estado PR
+LU idade 23 cidade SaoPaulo
+LU cidade Recife estado CE
+LU estado CE idade 28
+LU nacionalidade Brasileira idade 25
+LU cidade Salvador idade 58
+LU nome Maria nacionalidade Brasileira
+LU idade 57 estado SP
+LU idade 46 nome Vera
+LU idade 31 estado PE
+LU idade 24 estado BA
+LU nome Otto estado BA
+LU nacionalidade Brasileira estado BA
+LU cidade Salvador nome Carla
+LU estado RS nacionalidade Uruguaia
+LU estado MG nacionalidade Uruguaia
+LU nome Maria nacionalidade Chilena
+LU nacionalidade Uruguaia estado MG
+LU idade 19 nacionalidade Chilena
+LU nacionalidade Uruguaia estado MG
+LU nacionalidade Uruguaia idade 24
+LU nacionalidade Brasileira cidade Recife
+LU cidade BeloHorizonte estado CE
+LU cidade SaoPaulo nacionalidade Argentina
+LU nacionalidade Portuguesa idade 37
+LU estado MG idade 30
+LU nome Maria idade 42
+LU estado BA nome Otto
+LU nome Vera idade 52
+LU nacionalidade Argentina cidade BeloHorizonte
+LU nome Lucas cidade PortoAlegre
+LU idade 63 cidade PortoAlegre
+LU nacionalidade Argentina nome Hugo
+LU cidade RioDeJaneiro idade 27
+LU nome Nina idade 52
+LU nome Tiago cidade PortoAlegre
+LU idade 70 nacionalidade Uruguaia
+LU nome Felipe estado PR
+LU nacionalidade Portuguesa estado MG
+LU nome Nina nacionalidade Argentina
+LU estado SP idade 61
+LU idade 51 cidade BeloHorizonte
+LU estado PE cidade Curitiba
+LU nome Paula estado PE
+LU cidade Recife nacionalidade Portuguesa
+LU nacionalidade Chilena estado PR
+LU cidade Curitiba nacionalidade Portuguesa
+LU nome Ines idade 41
+LU idade 18 nome Tiago
+LU nome Paula idade 43
+LU nome Carla nacionalidade Argentina
+LU nacionalidade Brasileira nome Vera
+LU cidade SaoPaulo idade 35
+LU idade 52 nome Ana
+LU idade 49 estado BA
+LU nacionalidade Portuguesa nome Elena
+LU estado RS nome Bruno
+LU cidade Fortaleza estado MG
+LU cidade Fortaleza idade 41
+LU nome Ana estado SP
+LU nome Joao nacionalidade Uruguaia
+LU estado MG cidade PortoAlegre
+LU nome Rui estado SP
+LU nacionalidade Uruguaia idade 28
+LU nacionalidade Uruguaia nome Diego
+LU estado CE cidade Fortaleza
+LU nacionalidade Portuguesa nome Sofia
+LU cidade Salvador nome Ana
+LU idade 65 cidade SaoPaulo
+LU nacionalidade Brasileira cidade SaoPaulo
+LU cidade PortoAlegre nome Carla
+LU estado PR idade 54
+LU nome Maria idade 53
+LU cidade PortoAlegre nome Felipe
+LU idade 61 nome Vera
+LU estado PE cidade PortoAlegre
+LU idade 63 nacionalidade Uruguaia
+LU estado SP nacionalidade Brasileira
+LU idade 35 nome Ines
+LU cidade BeloHorizonte nacionalidade Chilena
+LU idade 21 nacionalidade Uruguaia
+LU idade 25 estado SP
+LU idade 69 cidade Recife
+LU nacionalidade Chilena estado SP
+LU nome Paula cidade PortoAlegre
+LU idade 42 cidade PortoAlegre
+LU cidade BeloHorizonte nacionalidade Uruguaia
+LU nome Gabi estado PE
+LU nome Otto nacionalidade Argentina
+LU idade 69 estado PE
+LU estado SP nacionalidade Uruguaia
+LU nome Tiago nacionalidade Argentina
+LU nome Ana idade 61
+LU nacionalidade Uruguaia idade 18
+LU nome Bruno idade 63
+LU nome Paula idade 27
+LU nacionalidade Brasileira nome Joao
+LU nome Maria idade 32
+LU idade 20 nacionalidade Portuguesa
+LU cidade Fortaleza estado RJ
+LU estado BA nacionalidade Uruguaia
+LU cidade Recife idade 48
+LU nacionalidade Brasileira cidade Fortaleza
+LU idade 23 nacionalidade Uruguaia
+LU cidade RioDeJaneiro estado PR
+LU estado PR cidade Fortaleza
+LU cidade RioDeJaneiro nacionalidade Argentina
+LU nome Elena nacionalidade Argentina
+LU idade 55 nome Gabi
+LU idade 49 cidade Fortaleza
+LU nome Hugo estado RJ
+LU nome Elena idade 64
+LU nome Hugo idade 48
+LU nome Nina cidade PortoAlegre
+LU idade 44 nacionalidade Brasileira
+LU idade 21 nacionalidade Argentina
+LU nome Felipe nacionalidade Uruguaia
+LU estado PE cidade BeloHorizonte
+LU nome Otto cidade SaoPaulo
+LU estado BA cidade PortoAlegre
+LU nome Maria nacionalidade Chilena
+LU nacionalidade Chilena cidade SaoPaulo
+LU nome Nina idade 23
+LU idade 24 nome Ines
+LU idade 20 nome Joao
+LU idade 22 nacionalidade Chilena
+LU nome Nina cidade RioDeJaneiro
+LU idade 52 cidade Salvador
+LU cidade Recife estado SP
+LU cidade SaoPaulo estado BA
+LU idade 23 nacionalidade Brasileira
+LU nacionalidade Chilena idade 60
+LU estado SP idade 34
+LU nacionalidade Uruguaia nome Diego
+LU nacionalidade Brasileira nome Sofia
+LU nome Otto nacionalidade Brasileira
+LU idade 35 estado PR
+LU idade 70 nome Maria
+LU estado PE cidade Salvador
+LU estado BA idade 40
+LU cidade BeloHorizonte nome Otto
+LU nome Otto nacionalidade Argentina
+LU nome Maria nacionalidade Chilena
+LU estado BA cidade SaoPaulo
+LU cidade RioDeJaneiro nome Elena
+LU nacionalidade Argentina cidade Salvador
+LU nacionalidade Portuguesa cidade SaoPaulo
+LU nome Paula cidade RioDeJaneiro
+LU cidade Salvador estado PE
+LU cidade Salvador estado MG
+LU estado RS idade 44
+LU nacionalidade Brasileira idade 54
+LU estado PE cidade Fortaleza
+LU estado CE nome Bruno
+LU nacionalidade Argentina cidade Curitiba
+LU nacionalidade Brasileira cidade Curitiba
+LU idade 19 estado MG
+LU nacionalidade Portuguesa cidade BeloHorizonte
+LU idade 31 estado CE
+LU nacionalidade Argentina estado PE
+LU estado PR idade 59
+LU cidade SaoPaulo idade 52
+LU estado RJ nome Gabi
+LU idade 29 estado RJ
+LU nacionalidade Chilena nome Tiago
+LU nacionalidade Chilena idade 57
+LU cidade Curitiba nome Felipe
+LU cidade Fortaleza estado RS
+LU idade 55 estado BA
+LU estado SP nome Bruno
+LU cidade BeloHorizonte nome Hugo
+LU cidade Salvador nacionalidade Portuguesa
+LU nacionalidade Chilena estado PE
+LU idade 52 nome Paula
+LU nacionalidade Brasileira nome Felipe
+LU nome Paula idade 26
+LU nacionalidade Chilena nome Vera
+LU nome Bruno estado CE
+LU idade 60 cidade RioDeJaneiro
+LU nacionalidade Chilena idade 29
+LU nome Rui cidade BeloHorizonte
+LU nacionalidade Portuguesa nome Gabi
+LU estado BA idade 32
+LU cidade SaoPaulo nacionalidade Portuguesa
+LU cidade Salvador idade 27
+LU estado RS cidade RioDeJaneiro
+LU nacionalidade Chilena estado RS
+LU nome Carla cidade Recife
+LU idade 18 estado CE
+LU nacionalidade Argentina estado MG
+LU idade 52 cidade PortoAlegre
+LU cidade Fortaleza idade 55
+LU cidade SaoPaulo estado MG
+LU idade 66 estado PR
+LU nome Paula cidade BeloHorizonte
+LU cidade PortoAlegre nacionalidade Brasileira
+LU estado RJ idade 60
+LU cidade RioDeJaneiro estado CE
+LU nacionalidade Argentina estado PE
+LU nome Carla cidade PortoAlegre
+LU idade 60 estado SP
+LU estado PR cidade Recife
+LU nacionalidade Brasileira cidade Fortaleza
+LU cidade RioDeJaneiro idade 57
+LU nome Nina nacionalidade Brasileira
+LU idade 62 nome Hugo
+LU cidade PortoAlegre nome Maria
+LU idade 38 estado SP
+LU nome Rui idade 19
+LU nome Otto nacionalidade Argentina
+LU nome Lucas nacionalidade Argentina
+LU nacionalidade Uruguaia nome Ana
+LU estado RJ cidade BeloHorizonte
+LU nacionalidade Uruguaia estado PE
+LU nome Vera cidade Salvador
+LU idade 33 nome Vera
+LU estado CE idade 47
+LU nome Nina estado RS
+LU estado BA nome Ana
+LU cidade PortoAlegre nacionalidade Argentina
+LU idade 36 nacionalidade Uruguaia
+LU nacionalidade Argentina estado SP
+LU cidade Curitiba nacionalidade Uruguaia
+LU cidade RioDeJaneiro estado CE
+LU idade 57 nacionalidade Chilena
+LU cidade PortoAlegre nome Ines
+LU nome Ana idade 33
+LU estado BA idade 47
+LU cidade SaoPaulo nome Elena
+LU cidade Fortaleza nome Felipe
+LU estado BA idade 48
+LU cidade BeloHorizonte idade 29
+LU idade 21 nacionalidade Uruguaia
+LU estado BA nome Ines
+LU cidade Recife nome Otto
+LU idade 44 nacionalidade Brasileira
+LU estado RJ cidade PortoAlegre
+LU estado RJ nome Gabi
+LU nacionalidade Portuguesa idade 20
+LU estado RJ idade 56
+LU nacionalidade Brasileira nome Elena
+LU nome Diego cidade RioDeJaneiro
+LU idade 44 nacionalidade Portuguesa
+LU estado PR nome Kelly
+LU estado MG idade 21
+LU estado MG nacionalidade Uruguaia
+LU estado RS idade 49
+LU nacionalidade Brasileira cidade Fortaleza
+LU nome Lucas idade 24
+LU estado CE idade 36
+LU nome Ana idade 59
+LU cidade Curitiba nome Vera
+LU estado RS idade 53
+LU estado MG idade 34
+LU idade 40 cidade PortoAlegre
+LU nome Rui cidade PortoAlegre
+LU cidade RioDeJaneiro nacionalidade Chilena
+LU nacionalidade Chilena cidade Curitiba
+LU nome Maria nacionalidade Portuguesa
+LU nome Joao idade 65
+LU cidade BeloHorizonte nacionalidade Argentina
+LU cidade SaoPaulo nacionalidade Brasileira
+LU estado RS nome Paula
+LU nome Nina cidade Recife
+LU estado BA cidade Salvador
+LU idade 48 nome Carla
+LU nacionalidade Uruguaia cidade Recife
+LU nome Lucas nacionalidade Brasileira
+LU nacionalidade Chilena nome Kelly
+LU nacionalidade Chilena estado RS
+LU nacionalidade Argentina idade 49
+LU idade 63 cidade Fortaleza
+LU cidade Salvador nacionalidade Brasileira
+LU nome Kelly idade 18
+LU cidade Recife idade 18
+LU nome Lucas estado MG
+LU idade 40 nacionalidade Chilena
+LU nacionalidade Chilena estado MG
+LU nome Bruno idade 40
+LU estado CE idade 40
+LU idade 34 estado PR
+LU nacionalidade Uruguaia estado PE
+LU cidade Recife estado PE
+LU estado RS nacionalidade Brasileira
+LU nome Paula idade 39
+LU estado SP idade 35
+LU cidade Curitiba nome Tiago
+LU estado RJ nacionalidade Argentina
+LU idade 29 nacionalidade Argentina
+LU estado PE nome Paula
+LU idade 34 nacionalidade Argentina
+LU idade 19 nome Ana
+LU nome Hugo estado CE
+LU idade 30 cidade Fortaleza
+LU nacionalidade Portuguesa estado PE
+LU cidade SaoPaulo estado RS
+LU idade 57 estado BA
+LU estado CE nome Carla
+LU nome Ines cidade PortoAlegre
+LU nome Maria nacionalidade Argentina
+LU nome Paula cidade RioDeJaneiro
+LU nome Elena idade 27
+LU nacionalidade Brasileira cidade Salvador
+LU estado BA idade 47
+LU idade 39 cidade SaoPaulo
+LU nome Kelly estado PR
+LU idade 28 cidade Curitiba
+LU cidade SaoPaulo idade 29
+LU cidade Recife nome Otto
+LU idade 62 nacionalidade Chilena
+LU nome Paula estado MG
+LU nacionalidade Argentina idade 23
+LU idade 51 estado PR
+LU estado PE idade 34
+LU estado PE cidade Curitiba
+LU cidade PortoAlegre nome Nina
+LU idade 56 nome Tiago
+LU estado RJ nome Vera
+LU estado PR idade 49
+LU nacionalidade Portuguesa idade 56
+LU nacionalidade Portuguesa estado PE
+LU nacionalidade Chilena estado MG
+LU cidade Curitiba idade 41
+LU nacionalidade Chilena estado RJ
+LU nacionalidade Brasileira idade 35
+LU nacionalidade Portuguesa estado BA
+LU nome Carla idade 39
+LU cidade BeloHorizonte nacionalidade Brasileira
+LU nome Lucas nacionalidade Portuguesa
+LU nacionalidade Portuguesa idade 34
+LU estado PE nacionalidade Argentina
+LU nacionalidade Brasileira nome Ana
+LU idade 27 nacionalidade Argentina
+LU nacionalidade Uruguaia idade 62
+LU nome Sofia nacionalidade Uruguaia
+LU idade 36 nacionalidade Argentina
+LU idade 30 cidade RioDeJaneiro
+LU idade 21 nacionalidade Chilena
+LU estado RS nacionalidade Brasileira
+LU cidade Fortaleza idade 49
+LU nome Elena cidade BeloHorizonte
+LU nacionalidade Portuguesa idade 58
+LU estado RS nacionalidade Chilena
+LU idade 27 cidade SaoPaulo
+LU nacionalidade Chilena cidade PortoAlegre
+LU nome Ana nacionalidade Portuguesa
+LU nacionalidade Portuguesa cidade Fortaleza
+LU nacionalidade Chilena idade 41
+LU nome Hugo idade 52
+LU nacionalidade Uruguaia idade 37
+LU nome Kelly estado PE
+LU idade 46 cidade Curitiba
+LU cidade Curitiba idade 57
+LU cidade BeloHorizonte nome Sofia
+LU cidade SaoPaulo estado PE
+LU nome Joao idade 69
+LU nacionalidade Brasileira cidade Salvador
+LU nome Kelly idade 40
+LU nacionalidade Portuguesa nome Sofia
+LU idade 22 nome Rui
+LU nacionalidade Brasileira nome Tiago
+LU nacionalidade Argentina estado RJ
+LU nacionalidade Portuguesa idade 50
+LU idade 44 nacionalidade Chilena
+LU nome Paula estado PE
+LU cidade Fortaleza nome Lucas
+LU cidade SaoPaulo idade 65
+LU idade 65 estado RJ
+LU idade 57 cidade Fortaleza
+LU cidade RioDeJaneiro nacionalidade Argentina
+LU idade 60 cidade Recife
+LU idade 65 nome Diego
+LU cidade Curitiba nacionalidade Portuguesa
+LU cidade Fortaleza idade 46
+LU idade 58 nacionalidade Chilena
+LU idade 35 cidade Salvador
+LU cidade BeloHorizonte idade 52
+LU idade 68 nacionalidade Chilena
+LU nacionalidade Uruguaia idade 25
+LU cidade RioDeJaneiro idade 21
+LU estado SP idade 59
+LU nacionalidade Argentina idade 33
+LU idade 49 nome Gabi
+LU nome Sofia idade 30
+LU cidade PortoAlegre idade 66
+LU estado PR nacionalidade Chilena
+LU cidade SaoPaulo estado SP
+LU cidade Curitiba idade 68
+LU nome Otto nacionalidade Chilena
+LU cidade SaoPaulo idade 49
+LU estado BA nome Hugo
+LU nome Maria estado MG
+LU cidade PortoAlegre estado BA
+LU idade 21 cidade Curitiba
+LU idade 20 cidade Salvador
+LU idade 70 nacionalidade Chilena
+LU nacionalidade Chilena estado MG
+LU idade 61 cidade Curitiba
+LU cidade Recife nacionalidade Argentina
+LU cidade SaoPaulo nome Bruno
+LU estado CE idade 29
+LU cidade Curitiba idade 39
+LU nacionalidade Portuguesa cidade Recife
+LU estado RJ cidade Recife
+LU estado PE idade 18
+LU estado RS idade 27
+LU nacionalidade Chilena idade 27
+LU cidade BeloHorizonte nome Maria
+LU nome Kelly estado SP
+LU idade 57 nacionalidade Argentina
+LU cidade Curitiba nacionalidade Chilena
+LU idade 62 nacionalidade Chilena
+LU nacionalidade Chilena nome Hugo
+LU cidade BeloHorizonte nome Bruno
+LU nacionalidade Uruguaia estado SP
+LU nome Tiago nacionalidade Chilena
+LU estado PR nacionalidade Brasileira
+LU nome Hugo estado CE
+LU nacionalidade Portuguesa idade 49
+LU idade 24 cidade Curitiba
+LU nome Bruno idade 66
+LU nome Ines estado BA
+LU nacionalidade Brasileira idade 39
+LU cidade Fortaleza nacionalidade Chilena
+LU nome Felipe estado RS
+LU idade 18 cidade Curitiba
+LU estado BA nome Maria
+LU cidade Salvador idade 61
+LU nome Otto cidade RioDeJaneiro
+LU nome Tiago estado PR
+LU nome Hugo idade 48
+LU nome Tiago estado BA
+LU idade 21 cidade Recife
+LU estado PE nome Carla
+LU nome Ana nacionalidade Uruguaia
+LU cidade Curitiba idade 43
+LU nome Elena cidade BeloHorizonte
+LU nome Felipe estado RJ
+LU idade 42 nacionalidade Argentina
+LU estado RS idade 52
+LU cidade RioDeJaneiro nome Kelly
+LU cidade Fortaleza estado BA
+LU nacionalidade Portuguesa idade 70
+LU nacionalidade Portuguesa cidade SaoPaulo
+LU nome Rui idade 40
+LU estado SP nome Felipe
+LU cidade BeloHorizonte idade 23
+LU nome Nina idade 18
+LU idade 56 nome Rui
+LU estado PR nacionalidade Chilena
+LU nacionalidade Brasileira estado BA
+LU cidade Salvador nome Hugo
+LU nacionalidade Portuguesa idade 59
+LU estado RS idade 40
+LU cidade Salvador nacionalidade Brasileira
+LU estado BA idade 68
+LU idade 66 cidade SaoPaulo
+LU idade 44 nacionalidade Argentina
+LU estado MG nome Maria
+LU nome Felipe idade 35
+LU cidade Fortaleza estado BA
+LU idade 33 estado PE
+LU idade 21 cidade Recife
+LU estado MG nome Carla
+LU cidade PortoAlegre nacionalidade Argentina
+LU idade 41 estado CE
+LU idade 45 nacionalidade Portuguesa
+LU idade 55 cidade PortoAlegre
+LU cidade Fortaleza nacionalidade Uruguaia
+LU nacionalidade Chilena estado RJ
+LU estado PE nome Lucas
+LU idade 37 nacionalidade Chilena
+LU cidade Recife nome Maria
+LU nome Lucas nacionalidade Argentina
+LU idade 35 nacionalidade Argentina
+LU cidade Salvador nome Tiago
+LU nacionalidade Argentina nome Maria
+LU nome Otto idade 30
+LU estado RS nacionalidade Argentina
+LU estado RS cidade SaoPaulo
+LU idade 57 estado PR
+LU idade 64 estado PR
+LU nome Gabi estado RS
+LU nacionalidade Portuguesa cidade SaoPaulo
+LU cidade RioDeJaneiro idade 66
+LU nome Joao estado CE
+LU idade 18 nacionalidade Argentina
+LU idade 51 estado CE
+LU nacionalidade Brasileira estado RS
+LU nome Lucas cidade Salvador
+LU cidade RioDeJaneiro estado PR
+LU nome Rui cidade Salvador
+LU nome Hugo idade 56
+LU idade 68 estado SP
+LU idade 33 nacionalidade Argentina
+LU idade 47 cidade Fortaleza
+LU estado CE idade 64
+LU nome Rui idade 18
+LU idade 34 nacionalidade Argentina
+LU nacionalidade Brasileira nome Bruno
+LU estado PE nacionalidade Portuguesa
+LU nacionalidade Argentina idade 50
+LU nacionalidade Argentina cidade Fortaleza
+LU nome Ana idade 36
+LU cidade SaoPaulo estado PR
+LU idade 19 estado MG
+LU estado RS cidade SaoPaulo
+LU cidade Salvador estado MG
+LU nome Sofia estado BA
+LU idade 39 estado RS
+LU nacionalidade Argentina estado PR
+LU nacionalidade Uruguaia cidade SaoPaulo
+LU nacionalidade Argentina cidade Salvador
+LU idade 29 estado CE
+LU idade 60 estado RS
+LU estado MG nacionalidade Portuguesa
+LU nacionalidade Uruguaia cidade Salvador
+LU nacionalidade Uruguaia nome Elena
+LU nacionalidade Portuguesa cidade Recife
+LU estado CE idade 26
+LU cidade Fortaleza estado SP
+LU estado RJ nome Carla
+LU estado RJ cidade PortoAlegre
+LU nacionalidade Portuguesa idade 19
+LU idade 33 estado SP
+LU nacionalidade Portuguesa cidade PortoAlegre
+LU nome Vera cidade PortoAlegre
+LU idade 37 estado BA
+LU nome Otto idade 35
+LU nome Diego idade 20
+LU idade 45 cidade Recife
+LU cidade BeloHorizonte estado RJ
+LU cidade Curitiba idade 20
+LU idade 47 estado SP
+LU idade 18 nacionalidade Uruguaia
+LU idade 37 nacionalidade Brasileira
+LU cidade RioDeJaneiro nacionalidade Brasileira
+LU idade 18 nacionalidade Uruguaia
+LU nacionalidade Brasileira idade 32
+LU nome Vera nacionalidade Uruguaia
+LU estado BA nacionalidade Portuguesa
+LU nome Felipe idade 34
+LU estado RS idade 35
+LU estado PR idade 38
+LU nacionalidade Argentina nome Carla
+LU nome Tiago cidade Salvador
+LU nome Bruno estado PR
+LU nacionalidade Argentina estado MG
+LU idade 48 nacionalidade Uruguaia
+LU idade 36 estado CE
+LU cidade Recife nome Ines
+LU cidade Recife estado BA
+LU cidade Fortaleza idade 48
+LU nome Diego nacionalidade Uruguaia
+LU estado SP idade 54
+LU estado MG nacionalidade Brasileira
+LU nacionalidade Brasileira idade 39
+LU cidade Curitiba idade 54
+LU cidade Recife estado BA
+LU nacionalidade Argentina cidade PortoAlegre
+LU nome Hugo idade 40
+LU idade 60 cidade SaoPaulo
+LU estado PR cidade PortoAlegre
+LU nacionalidade Portuguesa estado PE
+LU estado SP idade 48
+LU nome Joao cidade Salvador
+LU nome Tiago cidade RioDeJaneiro
+LU nacionalidade Chilena nome Sofia
+LU idade 27 estado CE
+LU idade 67 cidade Fortaleza
+LU nome Elena idade 29
+LU nome Carla cidade PortoAlegre
+LU nome Ines estado CE
